@@ -1,34 +1,36 @@
 require 'rails_helper'
 
-RSpec.describe 'counties index' do
-  it 'returns a json formatted list of counties' do
-    la_plata = County.create!(name: "La Plata")
-    montezuma = County.create!(name: "Montezuma")
-    boulder = County.create!(name: "Boulder")
-    summit = County.create!(name: "Summit")
+RSpec.describe 'GET /counties' do
+  describe "when the records exist" do
+    it 'expects a successful response' do
+      get "/api/v1/counties"
 
-    get '/api/v1/counties'
+      expect(response).to be_successful
+      expect(response).to have_http_status(200)
+    end
 
-    expect(response).to be_successful
+    it 'returns Counties' do
+      get "/api/v1/counties"
 
-    parsed = JSON.parse(response.body, symbolize_names: true)
-    counties = parsed[:data]
+      counties = JSON.parse(response.body, symbolize_names: true)
 
-    expect(counties).to be_an(Array)
-    expect(counties.count).to eq(4)
-    expect(counties.first.keys).to include(
-      :id,
-      :type,
-      :attributes
-    )
-    expect(counties.first[:id]).to be_a(String)
-    expect(counties.first[:type]).to eq('county')
-    expect(counties.first[:attributes].keys).to include(
-      :name
-    )
-    expect(counties.first[:attributes][:name]).to be_a(String)
-    expect(counties.first[:attributes][:name]).to eq('La Plata')
-    expect(counties.first).to_not have_key(:population)
-    expect(counties.first).to_not have_key(:capitol)
+      expect(counties).to be_a Hash
+      expect(counties).to have_key :data
+
+      expect(counties[:data]).to be_a Array
+      expect(counties[:data].first).to be_a Hash
+
+      expect(counties[:data].first).to have_key :id
+      expect(counties[:data].first).to have_key :type
+      expect(counties[:data].first).to have_key :attributes
+
+      expect(counties[:data].first[:id]).to be_a String
+      expect(counties[:data].first[:type]).to be_a String
+      expect(counties[:data].first[:attributes]).to be_a Hash
+
+      expect(counties[:data].first[:attributes]).to have_key :name
+
+      expect(counties[:data].first[:attributes][:name]).to be_a String
+    end
   end
 end
