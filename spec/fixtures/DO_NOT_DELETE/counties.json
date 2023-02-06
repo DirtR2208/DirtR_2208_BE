@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "type": "counties",
+      "attributes": {
+        "name": "Ouray County"
+      }
+    },
+    {
+      "id": "2",
+      "type": "counties",
+      "attributes": {
+        "name": "Chaffee County"
+      }
+    },
+    {
+      "id": "3",
+      "type": "counties",
+      "attributes": {
+        "name": "Teller County"
+      }
+    },
+    {
+      "id": "4",
+      "type": "counties",
+      "attributes": {
+        "name": "Fremont County"
+      }
+    },
+    {
+      "id": "5",
+      "type": "counties",
+      "attributes": {
+        "name": "Saguache County"
+      }
+    },
+    {
+      "id": "6",
+      "type": "counties",
+      "attributes": {
+        "name": "Gunnison County"
+      }
+    },
+    {
+      "id": "7",
+      "type": "counties",
+      "attributes": {
+        "name": "La Plata County"
+      }
+    },
+    {
+      "id": "8",
+      "type": "counties",
+      "attributes": {
+        "name": "Montrose County"
+      }
+    },
+    {
+      "id": "9",
+      "type": "counties",
+      "attributes": {
+        "name": "Gunnison County"
+      }
+    },
+    {
+      "id": "10",
+      "type": "counties",
+      "attributes": {
+        "name": "Alamosa County"
+      }
+    },
+    {
+      "id": "11",
+      "type": "counties",
+      "attributes": {
+        "name": "Dolores County"
+      }
+    },
+    {
+      "id": "12",
+      "type": "counties",
+      "attributes": {
+        "name": "Montezuma County"
+      }
+    },
+    {
+      "id": "13",
+      "type": "counties",
+      "attributes": {
+        "name": "Lake County"
+      }
+    },
+    {
+      "id": "14",
+      "type": "counties",
+      "attributes": {
+        "name": "Delta County"
+      }
+    },
+    {
+      "id": "15",
+      "type": "counties",
+      "attributes": {
+        "name": "Mesa County"
+      }
+    },
+    {
+      "id": "16",
+      "type": "counties",
+      "attributes": {
+        "name": "San Migiuel County"
+      }
+    },
+    {
+      "id": "17",
+      "type": "counties",
+      "attributes": {
+        "name": "San Juan County"
+      }
+    },
+    {
+      "id": "18",
+      "type": "counties",
+      "attributes": {
+        "name": "Archuleta County"
+      }
+    },
+    {
+      "id": "19",
+      "type": "counties",
+      "attributes": {
+        "name": "Rio Blanco County"
+      }
+    },
+    {
+      "id": "20",
+      "type": "counties",
+      "attributes": {
+        "name": "Garfield County"
+      }
+    },
+    {
+      "id": "21",
+      "type": "counties",
+      "attributes": {
+        "name": "Eagle County"
+      }
+    },
+    {
+      "id": "22",
+      "type": "counties",
+      "attributes": {
+        "name": "Grand County"
+      }
+    },
+    {
+      "id": "23",
+      "type": "counties",
+      "attributes": {
+        "name": "Summit County"
+      }
+    },
+    {
+      "id": "24",
+      "type": "counties",
+      "attributes": {
+        "name": "Routt County"
+      }
+    },
+    {
+      "id": "25",
+      "type": "counties",
+      "attributes": {
+        "name": "Clear Creek County"
+      }
+    },
+    {
+      "id": "26",
+      "type": "counties",
+      "attributes": {
+        "name": "Larimer County"
+      }
+    },
+    {
+      "id": "27",
+      "type": "counties",
+      "attributes": {
+        "name": "Boulder County"
+      }
+    }
+  ]
+}
