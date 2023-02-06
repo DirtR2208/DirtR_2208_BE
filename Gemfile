@@ -29,6 +29,7 @@ group :test do
   gem 'orderly'
   gem 'shoulda-matchers'
   gem 'simplecov'
+  gem 'webmock'
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]

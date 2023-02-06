@@ -1,4 +1,4 @@
 class CountySerializer
   include JSONAPI::Serializer
-  attributes :name
+  attributes :name, :trails
 end
