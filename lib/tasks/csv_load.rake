@@ -5,14 +5,14 @@ namespace :csv_load do
 
   task counties: :environment do
     CSV.foreach('./db/data/counties.csv', headers: true) do |row|
-      County.create(row.to_hash)
+      County.find_or_create_by(row.to_hash)
     end
     ActiveRecord::Base.connection.reset_pk_sequence!('counties')
   end
 
   task trails: :environment do
     CSV.foreach('./db/data/colorado_trails.csv', headers: true) do |row|
-      Trail.create(row.to_hash)
+      Trail.find_or_create_by(row.to_hash)
     end
     ActiveRecord::Base.connection.reset_pk_sequence!('trails')
   end

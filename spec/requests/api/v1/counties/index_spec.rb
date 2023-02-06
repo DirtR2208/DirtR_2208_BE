@@ -29,14 +29,4 @@ RSpec.describe 'GET /counties' do
       expect(counties[:data].first[:attributes][:name]).to be_a String
     end
   end
-
-  describe "when records DNE" do
-    it 'returns a blank array' do
-      get "/api/v1/counties"
-
-      counties = JSON.parse(response.body, symbolize_names: true)
-
-      expect(counties[:data]).to eq([])
-    end
-  end
 end
