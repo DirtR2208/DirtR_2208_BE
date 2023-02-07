@@ -16,4 +16,11 @@ namespace :csv_load do
     end
     ActiveRecord::Base.connection.reset_pk_sequence!('trails')
   end
+
+  # task trails: :environment do
+  #   CSV.foreach('./db/data/colorado_trails.csv', headers: true) do |row|
+  #     Trail.find_or_create_by(row.to_hash)
+  #   end
+  #   ActiveRecord::Base.connection.reset_pk_sequence!('trails')
+  # end
 end
