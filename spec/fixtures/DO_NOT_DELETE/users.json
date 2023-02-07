@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "type": "users",
+      "attributes": {
+        "name": "Kenz Leng",
+        "email": "kenz@dirtr.dirt"
+      }
+    },
+    {
+      "id": "2",
+      "type": "users",
+      "attributes": {
+        "name": "Eli Fuchsman",
+        "email": "eli@dirtr.dirt"
+      }
+    },
+    {
+      "id": "3",
+      "type": "users",
+      "attributes": {
+        "name": "Shawn Lee",
+        "email": "shawn@dirtr.dirt"
+      }
+    },
+    {
+      "id": "4",
+      "type": "users",
+      "attributes": {
+        "name": "Alex Mora",
+        "email": "alex@dirtr.dirt"
+      }
+    },
+    {
+      "id": "5",
+      "type": "users",
+      "attributes": {
+        "name": "Evan Swanson",
+        "email": "evan@dirtr.dirt"
+      }
+    },
+    {
+      "id": "6",
+      "type": "users",
+      "attributes": {
+        "name": "Dana Truong",
+        "email": "dana@dirtr.dirt"
+      }
+    },
+    {
+      "id": "7",
+      "type": "users",
+      "attributes": {
+        "name": "Dmitrii Gubko",
+        "email": "dmitrii@dirtr.dirt"
+      }
+    }
+  ]
+}
