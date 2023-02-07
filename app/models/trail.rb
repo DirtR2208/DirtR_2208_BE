@@ -1,6 +1,8 @@
 class Trail < ApplicationRecord
   belongs_to :county
-  belongs_to :user
+  has_many :user_trails
+  has_many :users, through: :user_trails
+  
   validates_presence_of :name
   validates_presence_of :latitude
   validates_presence_of :longitude
