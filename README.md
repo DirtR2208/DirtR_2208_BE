@@ -1,6 +1,6 @@
 <div align="center">
   <h1>DirtR</h1>
-  <img width="500" alt="lunch and learn" src="https://media1.giphy.com/media/uBnr1pyJNN1ZhBoBKY/giphy-downsized.gif?cid=6104955es8fi8f3myha66tnb30y0wq726qni86cj41oz9b88&rid=giphy-downsized.gif&ct=g">
+  <img width="500" alt="DirtR" src="https://media1.giphy.com/media/uBnr1pyJNN1ZhBoBKY/giphy-downsized.gif?cid=6104955es8fi8f3myha66tnb30y0wq726qni86cj41oz9b88&rid=giphy-downsized.gif&ct=g">
 </div
 
 ## Table of Contents
