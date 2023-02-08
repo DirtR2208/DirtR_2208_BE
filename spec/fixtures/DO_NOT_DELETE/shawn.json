@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "id": "3",
+      "type": "users",
+      "attributes": {
+        "name": "Shawn Lee",
+        "trails": [
+          {
+            "id": 163,
+            "name": "Jenny Creek Trail ",
+            "latitude": "39.929561",
+            "longitude": "-105.624647",
+            "difficulty": "black",
+            "distance": "2.2",
+            "description": "Jenny Creek Trail is a lesser-used trail that goes from Yankee Doodle Lake Eldora Ski area. In it motorized 2 track and in summer is an out-and-back from Rollins pass road or Jenny Creek Road with no summer access through Eldora.",
+            "created_at": "2023-02-02T19:40:23.000Z",
+            "updated_at": "2023-02-02T19:40:23.000Z",
+            "start_elevation": "10,732 ft",
+            "avg_duration": "0:25:11",
+            "map_image": "https://ep1.pinkbike.org/trailstaticmap/563000/563447_3_500x200.png",
+            "thumbnail_image": "https://adventr.co/wp-content/uploads/2015/01/DSC03243.jpg",
+            "county_id": 27
+          },
+          {
+            "id": 69,
+            "name": "Rabbit Valley",
+            "latitude": "39.16981",
+            "longitude": "-108.98708",
+            "difficulty": "green",
+            "distance": "2.1",
+            "description": "Rabbit Valley #8 Doubletrack is a 2 mile less popular green singletrack trail located near Fruita Colorado. This multi-use trail can be used both directions. On average it takes 22 minutes to complete this trail. A license is required to use this trail.",
+            "created_at": "2023-02-02 17:52:17",
+            "updated_at": "2023-02-02 17:52:17",
+            "start_elevation": "4,629 ft",
+            "avg_duration": "0:03:54",
+            "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+            "thumbnail_image": "https://3.bp.blogspot.com/-J0vYLWVQuwU/WMk7mA6K08I/AAAAAAAArgA/IisKfWii1a4I4xLANcDzxeevNULj10ulwCLcB/s1600/Rabbit%2BValley%2BSection%2B032.JPG",
+            "county_id": 15
+          },
+          {
+            "id": 1,
+            "name": "Cowboy Lake",
+            "latitude": "38.22771",
+            "longitude": "-107.54796",
+            "difficulty": "green",
+            "distance": "1.5",
+            "description": "Cowboy Lake is a 1 mile less popular green doubletrack trail located near Ridgway Colorado. This atv/orv/ohv primary trail can be used both directions.",
+            "created_at": "2023-02-02 16:34:05",
+            "updated_at": "2023-02-02 16:34:05",
+            "start_elevation": "9,184 ft",
+            "avg_duration": null,
+            "map_image": "https://ep1.pinkbike.org/trailstaticmap/421000/421278_0_500x200.png",
+            "thumbnail_image": "https://4.bp.blogspot.com/-Duyiyyb7WWU/U_JKdTEN5yI/AAAAAAAAZ64/dipM0wxc3L8/s1600/Cowboy%2BLake%2B132.JPG",
+            "county_id": 1
+          }
+        ]
+      }
+    }
+  ]
+}

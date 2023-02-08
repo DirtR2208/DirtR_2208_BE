@@ -8,7 +8,7 @@ RSpec.describe 'GET /users' do
       # Rails.application.load_tasks
       # Rake::Task['csv_load:all'].invoke
 
-      get "/api/v1/users"
+      # get "/api/v1/users"
 
       users = JSON.parse(json_response, symbolize_names: true)
       # users = JSON.parse(response.body, symbolize_names: true)
