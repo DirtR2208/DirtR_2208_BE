@@ -8,7 +8,6 @@ RSpec.describe 'GET /counties' do
       get "/api/v1/county?name=boulder"
 
       boulder = JSON.parse(response.body, symbolize_names: true)
-
       expect(boulder).to be_a Hash
       expect(boulder).to have_key :data
       expect(boulder[:data]).to be_a Hash
