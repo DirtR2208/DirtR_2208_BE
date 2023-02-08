@@ -1,6 +1,5 @@
 {
-  "data": [
-    {
+  "data": {
       "id": "3",
       "type": "users",
       "attributes": {
@@ -54,8 +53,7 @@
             "thumbnail_image": "https://4.bp.blogspot.com/-Duyiyyb7WWU/U_JKdTEN5yI/AAAAAAAAZ64/dipM0wxc3L8/s1600/Cowboy%2BLake%2B132.JPG",
             "county_id": 1
           }
-        ]
-      }
+      ]
     }
-  ]
+  }
 }
