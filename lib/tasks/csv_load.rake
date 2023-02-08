@@ -1,7 +1,7 @@
 require 'csv'
 
 namespace :csv_load do
-  task all: %i[counties trails]
+  task all: %i[counties trails users]
 
   task counties: :environment do
     CSV.foreach('./db/data/counties.csv', headers: true) do |row|
