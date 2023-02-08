@@ -21,8 +21,10 @@ RSpec.describe Trail, type: :model do
   describe "#find_by_id" do
     it "finds the county that matches a id arg" do
       #scription:"helo",start_elevation:"3",avg_duration:":04",map_image:"SSS",thumbnail_image:"ss",county_id:"#{@boulder.id}" )
-      @trail = 164
-      expect(Trail.find_by_id(164)).to eq(@trail)
+      county = County.create!(name: "test")
+      trail = Trail.create!(name: "test", latitude: "1", longitude: "1", difficulty: "b", distance: "1", description: "....", start_elevation: "1234", avg_duration: "1", map_image: "https", thumbnail_image: "https1", county_id: county.id )
+
+      expect(Trail.find_by_id(trail.id)).to eq(trail)
     end
   end
-  end
+end
