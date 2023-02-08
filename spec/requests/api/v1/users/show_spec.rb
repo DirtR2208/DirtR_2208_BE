@@ -45,4 +45,19 @@ RSpec.describe 'GET /user' do
       expect(json[:error]).to eq("No User Found")
     end
   end
+
+  describe 'when there is no user id parameter' do
+    it 'returns an error' do
+      get '/api/v1/user'
+
+      json = JSON.parse(response.body, symbolize_names: true)
+
+      expect(response).to_not be_successful
+      expect(response).to have_http_status(404)
+
+      expect(json).to be_a(Hash)
+      expect(json).to have_key(:error)
+      expect(json[:error]).to eq("Provide A User Parameter")
+    end
+  end
 end
