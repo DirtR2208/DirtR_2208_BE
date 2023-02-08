@@ -6,6 +6,7 @@ class User < ApplicationRecord
   validates_presence_of :email
 
   def self.find_by_user_id(id)
+    # require 'pry'; binding.pry
     where('id = ?', "#{id}")
     .first
   end
