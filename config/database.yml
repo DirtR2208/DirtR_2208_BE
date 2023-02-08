@@ -6,7 +6,6 @@ default: &default
 development:
   <<: *default
   database: dirtr_2208_be_development
-
 test:
   <<: *default
   database: dirtr_2208_be_test
