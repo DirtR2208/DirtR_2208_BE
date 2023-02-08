@@ -30,4 +30,19 @@ RSpec.describe 'GET /user' do
       expect(shawn[:data][:attributes][:trails]).to be_a(Array)
     end
   end
+
+  describe 'when there are no records' do
+    it 'returns an error' do
+      get '/api/v1/user?id=897'
+
+      json = JSON.parse(response.body, symbolize_names: true)
+
+      expect(response).to_not be_successful
+      expect(response).to have_http_status(404)
+
+      expect(json).to be_a(Hash)
+      expect(json).to have_key(:error)
+      expect(json[:error]).to eq("No User Found")
+    end
+  end
 end
