@@ -3,4 +3,8 @@ class Api::V1::UsersController < ApplicationController
     users = User.all
     render json: UserSerializer.new(users)
   end
+
+  def show
+    
+  end
 end
