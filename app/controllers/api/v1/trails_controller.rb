@@ -1,7 +1,8 @@
 class Api::V1::TrailsController < ApplicationController
 
   def show
-    @trail = Trail.find(params[:id])
+    id = params[:id]
+    @trail = Trail.find_by_id(id)
 
   end
 end
