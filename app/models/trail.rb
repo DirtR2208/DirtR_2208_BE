@@ -12,6 +12,6 @@ class Trail < ApplicationRecord
   validates_presence_of :thumbnail_image
 
   def self.find_by_id(id)
-    where(id: id)
+    self.where(id: id).first
   end
 end
