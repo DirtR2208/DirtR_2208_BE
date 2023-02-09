@@ -1,27 +1,30 @@
-FROM ruby:2.7.4-alpine
+FROM ruby:2.7.4
 
-RUN apk add --update --virtual \
-  runtime-deps \
+RUN apt-get update && \
+  apt-get install -y \
   postgresql-client \
-  build-base \
-  postgresql-dev \
+  build-essential \
+  libpq-dev \
   libxml2-dev \
-  libxslt-dev \
+  libxslt1-dev \
   nodejs \
-  yarn \
+  npm \
   libffi-dev \
-  readline \
+  libreadline-dev \
   file \
   imagemagick \
   git \
-  tzdata
+  tzdata \
+  libgmp-dev
 
 WORKDIR /app
 COPY . /app/
 
-ENV BUNDLE_PATH /gems
+RUN gem install nokogiri --platform=ruby -- --use-system-libraries
+RUN npm install
 RUN bundle install
-RUN yarn install
+
+RUN echo 'Hello World'
 
 ENTRYPOINT [ "bin/rails" ]
 EXPOSE 3000
