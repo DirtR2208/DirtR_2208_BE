@@ -7,12 +7,7 @@ RSpec.describe 'GET /user' do
       stub_request(:get, "http://localhost:3000/api/v1/user?id=3").to_return(status: 200, body: json_response)
 
       shawn = JSON.parse(json_response, symbolize_names: true)
-      # Rails.application.load_tasks
-      # Rake::Task['csv_load:all'].invoke
-      # get "/api/v1/user?id=3"
-
-      # shawn = JSON.parse(response.body, symbolize_names: true)
-# require 'pry'; binding.pry
+      
       expect(shawn).to be_a(Hash)
       expect(shawn).to have_key(:data)
       expect(shawn[:data]).to be_a(Hash)

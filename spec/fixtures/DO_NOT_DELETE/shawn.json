@@ -6,22 +6,6 @@
         "name": "Shawn Lee",
         "trails": [
           {
-            "id": 163,
-            "name": "Jenny Creek Trail ",
-            "latitude": "39.929561",
-            "longitude": "-105.624647",
-            "difficulty": "black",
-            "distance": "2.2",
-            "description": "Jenny Creek Trail is a lesser-used trail that goes from Yankee Doodle Lake Eldora Ski area. In it motorized 2 track and in summer is an out-and-back from Rollins pass road or Jenny Creek Road with no summer access through Eldora.",
-            "created_at": "2023-02-02T19:40:23.000Z",
-            "updated_at": "2023-02-02T19:40:23.000Z",
-            "start_elevation": "10,732 ft",
-            "avg_duration": "0:25:11",
-            "map_image": "https://ep1.pinkbike.org/trailstaticmap/563000/563447_3_500x200.png",
-            "thumbnail_image": "https://adventr.co/wp-content/uploads/2015/01/DSC03243.jpg",
-            "county_id": 27
-          },
-          {
             "id": 69,
             "name": "Rabbit Valley",
             "latitude": "39.16981",

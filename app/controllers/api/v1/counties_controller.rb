@@ -17,4 +17,8 @@ class Api::V1::CountiesController < ApplicationController
       render json: { error: "Provide A Name Parameter" }, status: 404
     end
   end
+
+  def add_favorite(trail)
+    require 'pry'; binding.pry
+  end
 end

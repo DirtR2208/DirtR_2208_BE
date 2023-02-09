@@ -5,11 +5,9 @@ class Api::V1::UsersController < ApplicationController
   end
 
   def show
-    # require 'pry'; binding.pry
     id = params[:id]
-    # require 'pry'; binding.pry
     if id.present?
-      user = User.find_by_user_id(params[:id])
+      user = User.find_by_user_id(id)
       if user.nil?
         render json: { error: "No User Found" }, status: 404
       else
@@ -21,7 +19,14 @@ class Api::V1::UsersController < ApplicationController
   end
 
   # def add_favorite(trail)
+  #   require 'pry'; binding.pry
   #   user = User.find_by(params[:id])
-  #   if user.present?
+  #   # if user.present?
+  # end
+
+  # private
+
+  # def trail_params
+  #   params.permit(:name)
   # end
 end

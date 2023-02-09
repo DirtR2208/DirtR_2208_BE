@@ -5,13 +5,8 @@ RSpec.describe 'GET /users' do
     it 'returns all users in json format' do
       json_response = File.read('spec/fixtures/DO_NOT_DELETE/users.json')
       stub_request(:get, "http://localhost:3000/api/v1/users").to_return(status: 200, body: json_response)
-      # Rails.application.load_tasks
-      # Rake::Task['csv_load:all'].invoke
-
-      # get "/api/v1/users"
 
       users = JSON.parse(json_response, symbolize_names: true)
-      # users = JSON.parse(response.body, symbolize_names: true)
 
       expect(users).to be_a Hash
       expect(users).to have_key :data
