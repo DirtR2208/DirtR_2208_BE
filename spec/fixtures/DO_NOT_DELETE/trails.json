@@ -1,0 +1,3264 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "type": "trails",
+            "attributes": {
+                "id": 1,
+                "name": "Cowboy Lake",
+                "latitude": "38.22771",
+                "longitude": "-107.54796",
+                "difficulty": "green",
+                "distance": "1.5",
+                "description": "Cowboy Lake is a 1 mile less popular green doubletrack trail located near Ridgway Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T16:34:05.000Z",
+                "updated_at": "2023-02-02T16:34:05.000Z",
+                "start_elevation": "9,184 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/421000/421278_0_500x200.png",
+                "thumbnail_image": "https://4.bp.blogspot.com/-Duyiyyb7WWU/U_JKdTEN5yI/AAAAAAAAZ64/dipM0wxc3L8/s1600/Cowboy%2BLake%2B132.JPG",
+                "county_id": 1
+            }
+        },
+        {
+            "id": "2",
+            "type": "trails",
+            "attributes": {
+                "id": 2,
+                "name": "Lou Creek",
+                "latitude": "38.22771",
+                "longitude": "-107.54796",
+                "difficulty": "blue",
+                "distance": "2.7",
+                "description": "Lou Creek is a 3 mile less popular blue doubletrack trail located near Ridgway Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 57 minutes to complete this trail.",
+                "created_at": "2023-02-02T16:35:14.000Z",
+                "updated_at": "2023-02-02T16:35:14.000Z",
+                "start_elevation": "9,214 ft",
+                "avg_duration": "0:57:30",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/421000/421237_0_500x200.png",
+                "thumbnail_image": "https://1.bp.blogspot.com/-20tDnLc9Fwg/U_N2uPV9w6I/AAAAAAAAZ9s/nW4wVtOB_Tc/s1600/West%2BFork%2B004.JPG",
+                "county_id": 1
+            }
+        },
+        {
+            "id": "3",
+            "type": "trails",
+            "attributes": {
+                "id": 3,
+                "name": "Stealey Mountain North",
+                "latitude": "38.14721",
+                "longitude": "-107.59245",
+                "difficulty": "blue",
+                "distance": "3.6",
+                "description": "Stealey Mountain North is a 2 mile less popular blue singletrack trail located near Ridgway Colorado. This hike primary trail can be used both directions",
+                "created_at": "2023-02-02T16:36:23.000Z",
+                "updated_at": "2023-02-02T16:36:23.000Z",
+                "start_elevation": "9,742 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/421000/421103_0_500x200.png",
+                "thumbnail_image": "https://i.ytimg.com/vi/IgvX5v4YzpE/maxresdefault.jpg",
+                "county_id": 1
+            }
+        },
+        {
+            "id": "4",
+            "type": "trails",
+            "attributes": {
+                "id": 4,
+                "name": "Tomichi Pass",
+                "latitude": "38.61367",
+                "longitude": "-106.39009",
+                "difficulty": "blue",
+                "distance": "2",
+                "description": "Tomichi Pass is a 2 mile less popular blue doubletrack trail located near Buena Vista Colorado. This atv/orv/ohv primary trail can be used both directions and has a hard overall physical rating with a 838 ft blue climb. On average it takes 51 minutes to complete this trail.",
+                "created_at": "2023-02-02T16:37:32.000Z",
+                "updated_at": "2023-02-02T16:37:32.000Z",
+                "start_elevation": "11,128 ft",
+                "avg_duration": "0:51:12",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/249000/249749_0_500x200.png",
+                "thumbnail_image": "https://www.4x4explore.com/rds/t_rds/tomichi_ps_c.jpg",
+                "county_id": 2
+            }
+        },
+        {
+            "id": "5",
+            "type": "trails",
+            "attributes": {
+                "id": 5,
+                "name": "Hancock Road",
+                "latitude": "38.61947",
+                "longitude": "-106.35513",
+                "difficulty": "blue",
+                "distance": "1.5",
+                "description": "Hancock Road is a 2 mile less popular blue doubletrack trail located near Buena Vista Colorado. This multi-use trail can be used both directions and has a moderate overall physical rating with a 0 ft blue climb. On average it takes 13 minutes to complete this trail.",
+                "created_at": "2023-02-02T16:38:41.000Z",
+                "updated_at": "2023-02-02T16:38:41.000Z",
+                "start_elevation": "11,657 ft",
+                "avg_duration": "0:13:49",
+                "map_image": "https://static-maps.alltrails.com/production/at-map/24677368/v1-trail-us-colorado-hancock-lake-ohv-trail-via-country-road-295-at-map-24677368-1662272962-414w200h-en-US-i-2-style_3.png",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/1082/trail_reviews/1531926740785_resized_20180714_114041.jpg",
+                "county_id": 2
+            }
+        },
+        {
+            "id": "6",
+            "type": "trails",
+            "attributes": {
+                "id": 6,
+                "name": "CDT - Hancock Pass",
+                "latitude": "38.6381",
+                "longitude": "-106.36128",
+                "difficulty": "blue",
+                "distance": "3.1",
+                "description": "CDT - Hancock Pass is a 3 mile less popular blue doubletrack trail located near Buena Vista Colorado. This atv/orv/ohv primary trail can be used both directions and has a hard overall physical rating with a 1,040 ft blue climb. On average it takes 1 hour7 minutes to complete this trail.",
+                "created_at": "2023-02-02T16:39:50.000Z",
+                "updated_at": "2023-02-02T16:39:50.000Z",
+                "start_elevation": "11,095 ft",
+                "avg_duration": "1:07:59",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/249000/249750_2_500x200.png",
+                "thumbnail_image": "https://funtreks.com/wp-content/uploads/2017/10/tg-moderate-co-hancock-pass-01.jpg",
+                "county_id": 2
+            }
+        },
+        {
+            "id": "7",
+            "type": "trails",
+            "attributes": {
+                "id": 7,
+                "name": "Williams Pass",
+                "latitude": "38.62643",
+                "longitude": "-106.39501",
+                "difficulty": "blue",
+                "distance": "3.1",
+                "description": "Williams Pass is a 3 mile less popular blue doubletrack trail located near Buena Vista Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T16:40:59.000Z",
+                "updated_at": "2023-02-02T16:40:59.000Z",
+                "start_elevation": "11,293 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/249000/249737_0_500x200.png",
+                "thumbnail_image": "https://res.cloudinary.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_800/v1620770239/edit-store/GNPpDvGMStXPaI0IhXgq/w%3D%3D.jpg",
+                "county_id": 2
+            }
+        },
+        {
+            "id": "8",
+            "type": "trails",
+            "attributes": {
+                "id": 8,
+                "name": "Grouse",
+                "latitude": "39.00047",
+                "longitude": "-105.12505",
+                "difficulty": "green",
+                "distance": "2.9",
+                "description": "Grouse is a 3 mile less popular green dirt/gravel road trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T16:42:08.000Z",
+                "updated_at": "2023-02-02T16:42:08.000Z",
+                "start_elevation": "9,117 ft",
+                "avg_duration": null,
+                "map_image": "https://static-maps.alltrails.com/production/at-map/18296189/v1-trail-us-colorado-grouse-mountain-overlook-trail-at-map-18296189-1658423009-414w200h-en-US-i-2-style_3.png",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/2536/highlights/resized_2017-06-03_17.41.02-1.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "9",
+            "type": "trails",
+            "attributes": {
+                "id": 9,
+                "name": "Davis Spur",
+                "latitude": "39.02297",
+                "longitude": "-105.24396",
+                "difficulty": "blue",
+                "distance": "3.1",
+                "description": "Davis Spur is a 3 mile less popular blue doubletrack trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T16:43:17.000Z",
+                "updated_at": "2023-02-02T16:43:17.000Z",
+                "start_elevation": "9,131 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://cdn.britannica.com/74/7674-004-9F9E8CF0/Colorado-state-flag-letter-C-pattern-gold-1964.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "10",
+            "type": "trails",
+            "attributes": {
+                "id": 10,
+                "name": "Chestnut",
+                "latitude": "39.09973",
+                "longitude": "-105.21391",
+                "difficulty": "green",
+                "distance": "1.8",
+                "description": "Chestnut is a 2 mile less popular green dirt/gravel road trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 13 minutes to complete this trail.",
+                "created_at": "2023-02-02T16:44:26.000Z",
+                "updated_at": "2023-02-02T16:44:26.000Z",
+                "start_elevation": "8,565 ft",
+                "avg_duration": "0:13:33",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://adventr.co/wp-content/uploads/2006/07/DSC00090.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "11",
+            "type": "trails",
+            "attributes": {
+                "id": 11,
+                "name": "Rainbow ATV (Stover to Taylor)",
+                "latitude": "38.23187",
+                "longitude": "-105.64434",
+                "difficulty": "blue",
+                "distance": "11.4",
+                "description": "Rainbow ATV (Stover to Taylor) is a 11 mile less popular blue doubletrack trail located near Pleasanton Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T16:45:35.000Z",
+                "updated_at": "2023-02-02T16:45:35.000Z",
+                "start_elevation": "8,473 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://res.cloudinary.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_800/v1620767927/edit-store/ih7fzKDWN05EwkllQ8IywQ%3D%3D.jpg",
+                "county_id": 4
+            }
+        },
+        {
+            "id": "12",
+            "type": "trails",
+            "attributes": {
+                "id": 12,
+                "name": "Rainbow ATV (North)",
+                "latitude": "38.28614",
+                "longitude": "-105.70642",
+                "difficulty": "blue",
+                "distance": "2.6",
+                "description": "Rainbow ATV (North) is a 3 mile less popular blue doubletrack trail located near Pleasanton Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T16:46:44.000Z",
+                "updated_at": "2023-02-02T16:46:44.000Z",
+                "start_elevation": "8,473 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://res.cloudinary.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_800/v1620767927/edit-store/ih7fzKDWN05EwkllQ8IywQ%3D%3D.jpg",
+                "county_id": 4
+            }
+        },
+        {
+            "id": "13",
+            "type": "trails",
+            "attributes": {
+                "id": 13,
+                "name": "Rainbow ATV (Lake to Stover)",
+                "latitude": "38.26169",
+                "longitude": "-105.67877",
+                "difficulty": "blue",
+                "distance": "3.4",
+                "description": "Rainbow ATV (Lake to Stover) is a 3 mile less popular blue doubletrack trail located near Pleasanton Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T16:47:53.000Z",
+                "updated_at": "2023-02-02T16:47:53.000Z",
+                "start_elevation": "8,830 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://res.cloudinary.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_800/v1620767927/edit-store/ih7fzKDWN05EwkllQ8IywQ%3D%3D.jpg",
+                "county_id": 4
+            }
+        },
+        {
+            "id": "14",
+            "type": "trails",
+            "attributes": {
+                "id": 14,
+                "name": "Peerless",
+                "latitude": "38.24432",
+                "longitude": "-105.66955",
+                "difficulty": "blue",
+                "distance": "1.6",
+                "description": "Peerless is a 2 mile less popular blue singletrack trail located near Pleasanton Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T16:49:02.000Z",
+                "updated_at": "2023-02-02T16:49:02.000Z",
+                "start_elevation": "8,842 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://skjtravel.net/images/April2019/colorado/Breckenridge_peerless_mine05.jpg",
+                "county_id": 4
+            }
+        },
+        {
+            "id": "15",
+            "type": "trails",
+            "attributes": {
+                "id": 15,
+                "name": "North Taylor Road",
+                "latitude": "38.13519",
+                "longitude": "-105.597",
+                "difficulty": "green",
+                "distance": "2.1",
+                "description": "North Taylor Road is a 2 mile popular green dirt/gravel road trail located near Pleasanton Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T16:50:11.000Z",
+                "updated_at": "2023-02-02T16:50:11.000Z",
+                "start_elevation": "9,074 ft",
+                "avg_duration": null,
+                "map_image": "https://static-maps.alltrails.com/production/at-map/56767709/v1-trail-us-colorado-north-st-vrain-creek-via-taylor-rd-and-bright-trail-at-map-56767709-1665199602-414w200h-en-US-i-2-style_3.png",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/477/highlights/highlight.jpg",
+                "county_id": 4
+            }
+        },
+        {
+            "id": "16",
+            "type": "trails",
+            "attributes": {
+                "id": 16,
+                "name": "Lake Creek Road",
+                "latitude": "38.26413",
+                "longitude": "-105.66649",
+                "difficulty": "green",
+                "distance": "7.6",
+                "description": "Lake Creek Road is a 8 mile less popular green dirt/gravel road trail located near Pleasanton Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T16:51:20.000Z",
+                "updated_at": "2023-02-02T16:51:20.000Z",
+                "start_elevation": "8,415 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/515000/515289_0_500x200.png",
+                "thumbnail_image": "https://www.4x4explore.com/rds/s_rds/south_frk_lk_crk_a.jpg",
+                "county_id": 4
+            }
+        },
+        {
+            "id": "17",
+            "type": "trails",
+            "attributes": {
+                "id": 17,
+                "name": "Hermit Lake Road",
+                "latitude": "38.10533",
+                "longitude": "-105.60412",
+                "difficulty": "green",
+                "distance": "3",
+                "description": "Hermit Lake Road is a 3 mile popular green dirt/gravel road trail located near Pleasanton Colorado. This multi-use trail can be used both directions. On average it takes 20 minutes to complete this trail.",
+                "created_at": "2023-02-02T16:52:29.000Z",
+                "updated_at": "2023-02-02T16:52:29.000Z",
+                "start_elevation": "9,991 ft",
+                "avg_duration": "0:20:41",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://i.ytimg.com/vi/nUyKAJy1YOA/maxresdefault.jpg",
+                "county_id": 4
+            }
+        },
+        {
+            "id": "18",
+            "type": "trails",
+            "attributes": {
+                "id": 18,
+                "name": "Hermit Lake OHV",
+                "latitude": "38.09526",
+                "longitude": "-105.65547",
+                "difficulty": "black",
+                "distance": "5.7",
+                "description": "This is a rocky dirt road that gets pretty steep and has a lot of loose and tight switchbacks. Because of the altitude snow tends to stick around and there are a lot of stream crossings. This is part of a popular epic route called Rito Alto Four Pass Loop",
+                "created_at": "2023-02-02T16:53:38.000Z",
+                "updated_at": "2023-02-02T16:53:38.000Z",
+                "start_elevation": "13,055 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/515000/515311_0_500x200.png",
+                "thumbnail_image": "https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvNTQ2NTIzMzkvODkzYzNmOWY3MDQ5NTZhNTJkNmJiN2I3ZTYyNWM3MjMuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJqcGVnIiwicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NTAwLCJmaXQiOiJpbnNpZGUifSwicm90YXRlIjpudWxsLCJqcGVnIjp7InRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pc2VTY2FucyI6dHJ1ZSwicXVhbnRpc2F0aW9uVGFibGUiOjN9fX0=",
+                "county_id": 4
+            }
+        },
+        {
+            "id": "19",
+            "type": "trails",
+            "attributes": {
+                "id": 19,
+                "name": "Duckett",
+                "latitude": "38.26226",
+                "longitude": "-105.65967",
+                "difficulty": "green",
+                "distance": "4.1",
+                "description": "Duckett is a 4 mile less popular green doubletrack trail located near Pleasanton Colorado. This atv/orv/ohv primary trail can be used both directions",
+                "created_at": "2023-02-02T16:54:47.000Z",
+                "updated_at": "2023-02-02T16:54:47.000Z",
+                "start_elevation": "8,241 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/479000/479050_1_500x200.png",
+                "thumbnail_image": "https://wildwandererlmc.files.wordpress.com/2021/11/2-9.jpg",
+                "county_id": 4
+            }
+        },
+        {
+            "id": "20",
+            "type": "trails",
+            "attributes": {
+                "id": 20,
+                "name": "Bear Creek Ridge",
+                "latitude": "38.44084",
+                "longitude": "-105.95897",
+                "difficulty": "blue",
+                "distance": "1.5",
+                "description": "Bear Creek Ridge is a 2 mile less popular blue doubletrack trail located near Salida Colorado. This atv/orv/ohv primary trail.",
+                "created_at": "2023-02-02T16:55:56.000Z",
+                "updated_at": "2023-02-02T16:55:56.000Z",
+                "start_elevation": "8,737 ft",
+                "avg_duration": null,
+                "map_image": "https://static-maps.alltrails.com/production/at-map/13288320/v1-trail-us-colorado-bear-creek-preserve-trail-at-map-13288320-1655501268-414w200h-en-US-i-2-style_3.png",
+                "thumbnail_image": "https://4.bp.blogspot.com/-cztDZ7PEJ18/W5_WgjmTThI/AAAAAAAA2Wk/w00AxxrA2rM0VCQ3X4xQgbnQLi9HZXligCLcBGAs/s1600/Bear%2BCreek%2B221.JPG",
+                "county_id": 2
+            }
+        },
+        {
+            "id": "21",
+            "type": "trails",
+            "attributes": {
+                "id": 21,
+                "name": "Dawson Ridge",
+                "latitude": "38.45288",
+                "longitude": "-106.46004",
+                "difficulty": "green",
+                "distance": "4.4",
+                "description": "Dawson Ridge is a 4 mile less popular green dirt/gravel road trail located near Sargents Colorado. This multi-use trail can be used both directions. On average it takes 44 minutes to complete this trail.",
+                "created_at": "2023-02-02T16:57:05.000Z",
+                "updated_at": "2023-02-02T16:57:05.000Z",
+                "start_elevation": "10,184 ft",
+                "avg_duration": "0:44:06",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/300000/300070_1_500x200.png",
+                "thumbnail_image": "https://listsofjohn.com/img/29/28010.jpg",
+                "county_id": 5
+            }
+        },
+        {
+            "id": "22",
+            "type": "trails",
+            "attributes": {
+                "id": 22,
+                "name": "Baldy Lake (ATV)",
+                "latitude": "38.35392",
+                "longitude": "-106.46316",
+                "difficulty": "green",
+                "distance": "2.8",
+                "description": "Baldy Lake (ATV) is a 3 mile less popular green doubletrack trail located near Sargents Colorado. This multi-use trail can be used both directions. On average it takes 6 minutes to complete this trail.",
+                "created_at": "2023-02-02T16:58:14.000Z",
+                "updated_at": "2023-02-02T16:58:14.000Z",
+                "start_elevation": "9,821 ft",
+                "avg_duration": "0:06:51",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/300000/300350_0_500x200.png",
+                "thumbnail_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.trailsoffroad.com%2Ftrails%2F391-mount-baldy&psig=AOvVaw0urNxdpebfVQdAw_JANlqX&ust=1675482520535000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCICxw_W4-PwCFQAAAAAdAAAAABAR",
+                "county_id": 5
+            }
+        },
+        {
+            "id": "23",
+            "type": "trails",
+            "attributes": {
+                "id": 23,
+                "name": "Long Branch",
+                "latitude": "38.28108",
+                "longitude": "-106.41376",
+                "difficulty": "blue",
+                "distance": "5.7",
+                "description": "Long Branch is a 6 mile less popular blue doubletrack trail located near Salida Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 40 minutes to complete this trail.",
+                "created_at": "2023-02-02T16:59:23.000Z",
+                "updated_at": "2023-02-02T16:59:23.000Z",
+                "start_elevation": "11,166 ft",
+                "avg_duration": "0:40:53",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/300000/300351_0_500x200.png",
+                "thumbnail_image": "https://listsofjohn.com/img/32/31113.jpg",
+                "county_id": 2
+            }
+        },
+        {
+            "id": "24",
+            "type": "trails",
+            "attributes": {
+                "id": 24,
+                "name": "Los Pinos - Cebolla",
+                "latitude": "38.23325",
+                "longitude": "-106.74758",
+                "difficulty": "green",
+                "distance": "39.6",
+                "description": "This is one of the big reroutes around La Garita Wilderness when riding a bike on the Colorado Trail Route. This section alone is a 40 mile gravel grind",
+                "created_at": "2023-02-02T17:00:32.000Z",
+                "updated_at": "2023-02-02T17:00:32.000Z",
+                "start_elevation": "11,338 ft",
+                "avg_duration": "5:40:03",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/507000/507283_1_500x200.png",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/3978/highlights/1586137226949_resized_Los%20Pinos%20-%20Cebolla%20Pass-02578.jpg",
+                "county_id": 6
+            }
+        },
+        {
+            "id": "25",
+            "type": "trails",
+            "attributes": {
+                "id": 25,
+                "name": "County Road 9",
+                "latitude": "37.92663",
+                "longitude": "-107.56318",
+                "difficulty": "green",
+                "distance": "8.1",
+                "description": "Country Road is a 6 mile singletrack trail located near Bailey Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T17:01:41.000Z",
+                "updated_at": "2023-02-02T17:01:41.000Z",
+                "start_elevation": "11,006 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_1780,w_2667,x_0,y_1620/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1200/Colorado-Summit-County-2510_n7rm0b.jpg",
+                "county_id": 1
+            }
+        },
+        {
+            "id": "26",
+            "type": "trails",
+            "attributes": {
+                "id": 26,
+                "name": "Vallecito View",
+                "latitude": "37.49695",
+                "longitude": "-107.50933",
+                "difficulty": "blue",
+                "distance": "1.7",
+                "description": "Vallecito View is a 2 mile less popular blue doubletrack trail located near Durango Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 39 minutes to complete this trail.",
+                "created_at": "2023-02-02T17:02:50.000Z",
+                "updated_at": "2023-02-02T17:02:50.000Z",
+                "start_elevation": "11,336 ft",
+                "avg_duration": "0:39:29",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/420000/420495_1_500x200.png",
+                "thumbnail_image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_787,q_75,w_1200/v1/clients/durangoco/jeeping_off_roading_durango_co_6_da3d85c9-ea4e-491f-925e-9dfd4db1699d.jpg",
+                "county_id": 7
+            }
+        },
+        {
+            "id": "27",
+            "type": "trails",
+            "attributes": {
+                "id": 27,
+                "name": "Runlett Park",
+                "latitude": "37.48529",
+                "longitude": "-107.50683",
+                "difficulty": "blue",
+                "distance": "3",
+                "description": "OHV, ATV, narrow 2 track trail",
+                "created_at": "2023-02-02T17:03:59.000Z",
+                "updated_at": "2023-02-02T17:03:59.000Z",
+                "start_elevation": "10,739 ft",
+                "avg_duration": "0:16:20",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://3.bp.blogspot.com/-_Twlwa25sb0/XYJkIwzoVWI/AAAAAAAAET4/c9Dds8q13LEmmq8wioLKQffSuqn_4VD_wCKgBGAsYHg/s640/34-back.jpg",
+                "county_id": 7
+            }
+        },
+        {
+            "id": "28",
+            "type": "trails",
+            "attributes": {
+                "id": 28,
+                "name": "Beri ATV",
+                "latitude": "37.48408",
+                "longitude": "-107.52577",
+                "difficulty": "blue",
+                "distance": "1.7",
+                "description": "Beri ATV is a 2 mile less popular blue doubletrack trail located near Durango Colorado. This atv/orv/ohv primary trail can be used both directions",
+                "created_at": "2023-02-02T17:05:08.000Z",
+                "updated_at": "2023-02-02T17:05:08.000Z",
+                "start_elevation": "9,576 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/420000/420496_0_500x200.png",
+                "thumbnail_image": "https://ep1.pinkbike.org/trailstaticmap/420000/420496_0_500x200.png",
+                "county_id": 7
+            }
+        },
+        {
+            "id": "29",
+            "type": "trails",
+            "attributes": {
+                "id": 29,
+                "name": "Uncle Charlie",
+                "latitude": "37.31065",
+                "longitude": "-107.41905",
+                "difficulty": "blue",
+                "distance": "2.3",
+                "description": "Uncle Charlie is a nice trail, primarily traveling through some regenerating aspen trees. Can be used to link Beaver Meadows Road to First Notch Road.",
+                "created_at": "2023-02-02T17:06:17.000Z",
+                "updated_at": "2023-02-02T17:06:17.000Z",
+                "start_elevation": "9,147 ft",
+                "avg_duration": "0:12:08",
+                "map_image": "https://hiiker-production-public.s3.eu-west-1.amazonaws.com/hgeg761h3vu0kcvh3nfjdnjmzw2g",
+                "thumbnail_image": "https://hiiker-production-public.s3.eu-west-1.amazonaws.com/uuxyqjiu5unr6r5it34kky6fyi9u",
+                "county_id": 7
+            }
+        },
+        {
+            "id": "30",
+            "type": "trails",
+            "attributes": {
+                "id": 30,
+                "name": "Little Bull Creek",
+                "latitude": "37.20031",
+                "longitude": "-107.39515",
+                "difficulty": "blue",
+                "distance": "4",
+                "description": "Though this is a little away from any other trail networks, this is a great ride Recommended as an out-and-back, due to the access road going through some private property. Also, the trail is likely faster to climb. Once at the top, this is a 4 mile bomb back to the bottom! Large water bars along the trail allow it to become somewhat of a jump track too. Be aware of motorized users when you are racing downhill please",
+                "created_at": "2023-02-02T17:07:26.000Z",
+                "updated_at": "2023-02-02T17:07:26.000Z",
+                "start_elevation": "7,294 ft",
+                "avg_duration": "0:26:07",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/301000/301901_0_500x200.png",
+                "thumbnail_image": "https://ep1.pinkbike.org/trailstaticmap/301000/301901_0_500x200.png",
+                "county_id": 7
+            }
+        },
+        {
+            "id": "31",
+            "type": "trails",
+            "attributes": {
+                "id": 31,
+                "name": "Tanner-East Bear Gulch",
+                "latitude": "38.36488",
+                "longitude": "-105.275927",
+                "difficulty": "black",
+                "distance": "10.1",
+                "description": "Tanner-East Bear Gulch is a 10 mile less popular black diamond doubletrack trail located near Cañon City Colorado. This atv/orv/ohv primary trail can be used both directions and has a hard overall physical rating with a 4,385 ft black diamond climb.",
+                "created_at": "2023-02-02T17:08:35.000Z",
+                "updated_at": "2023-02-02T17:08:35.000Z",
+                "start_elevation": "5,985 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/334000/334310_0_280x150.png",
+                "thumbnail_image": "https://ep1.pinkbike.org/trailstaticmap/334000/334213_3_280x150.png",
+                "county_id": 4
+            }
+        },
+        {
+            "id": "32",
+            "type": "trails",
+            "attributes": {
+                "id": 32,
+                "name": "Stultz",
+                "latitude": "38.338808",
+                "longitude": "-105.269119",
+                "difficulty": "black",
+                "distance": "6",
+                "description": "Stultz is a 6 mile less popular black diamond doubletrack trail located near Cañon City Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T17:09:44.000Z",
+                "updated_at": "2023-02-02T17:09:44.000Z",
+                "start_elevation": "9,436 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/334000/334214_2_500x200.png",
+                "thumbnail_image": "https://hiiker-production-public.s3.eu-west-1.amazonaws.com/pthpyygpxoo3tnou4we8mgg4je9b",
+                "county_id": 4
+            }
+        },
+        {
+            "id": "33",
+            "type": "trails",
+            "attributes": {
+                "id": 33,
+                "name": "Parallel Trail",
+                "latitude": "38.322601",
+                "longitude": "-108.175688",
+                "difficulty": "green",
+                "distance": "4.8",
+                "description": "ATV Trail mostly but open for all uses",
+                "created_at": "2023-02-02T17:10:53.000Z",
+                "updated_at": "2023-02-02T17:10:53.000Z",
+                "start_elevation": "9,819 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/84000/84235_3_500x200.png",
+                "thumbnail_image": "https://3.bp.blogspot.com/-0wn-9Y4t2ls/U26W2KWBHJI/AAAAAAAAX7Y/vVMPKZKC7nU/s1600/Rabbit+Valley+%232+034.JPG",
+                "county_id": 9
+            }
+        },
+        {
+            "id": "34",
+            "type": "trails",
+            "attributes": {
+                "id": 34,
+                "name": "Linscott Canyon",
+                "latitude": "38.4151",
+                "longitude": "-107.976773",
+                "difficulty": "blue",
+                "distance": "1.9",
+                "description": "Linscott Canyon is a 2 mile less popular blue doubletrack trail located near Montrose Colorado. This multi-use trail can be used uphill primary and has a moderate overall physical rating with a 366 ft blue climb. On average it takes 25 minutes to complete this trail.",
+                "created_at": "2023-02-02T17:12:02.000Z",
+                "updated_at": "2023-02-02T17:12:02.000Z",
+                "start_elevation": "6,322 ft",
+                "avg_duration": "0:25:51",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://2.bp.blogspot.com/-A0Yaaa0YkfY/WqlH_BvbeDI/AAAAAAAAzR0/HgzAx7L5uz8J9yiN1sHG03a4wYUDG-FHACLcBGAs/s1600/Carpenter%2BRidge%2B061.JPG",
+                "county_id": 9
+            }
+        },
+        {
+            "id": "35",
+            "type": "trails",
+            "attributes": {
+                "id": 35,
+                "name": "Dry Creek",
+                "latitude": "38.312063",
+                "longitude": "-108.11656",
+                "difficulty": "blue",
+                "distance": "3.2",
+                "description": "The trail begins at FSR #524 and slowly descends for about three miles before really dropping into the Dry Creek drainage. Here, the trail turns into doubletrack/dirt road during the descent. At the bottom, riders have the option of turning north towards Highway 90 or southwest back toward the Divide Road.",
+                "created_at": "2023-02-02T17:13:11.000Z",
+                "updated_at": "2023-02-02T17:13:11.000Z",
+                "start_elevation": "9,566 ft",
+                "avg_duration": "0:38:09",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/200000/200542_0_500x200.png",
+                "thumbnail_image": "https://assets.trailsource.com/photos/ATV/720x405/img_0062.jpg",
+                "county_id": 9
+            }
+        },
+        {
+            "id": "36",
+            "type": "trails",
+            "attributes": {
+                "id": 36,
+                "name": "Craig Road",
+                "latitude": "38.501547",
+                "longitude": "-108.055884",
+                "difficulty": "green",
+                "distance": "3",
+                "description": "Craig Road is a Jeep road so don't expect to take your gravel bike on this. There are some fun little ledges and rock slabs. There are several small off-shoot trails where you can go to the canyon rim.",
+                "created_at": "2023-02-02T17:14:20.000Z",
+                "updated_at": "2023-02-02T17:14:20.000Z",
+                "start_elevation": "6,222 ft",
+                "avg_duration": "0:35:14",
+                "map_image": "https://static-maps.alltrails.com/production/at-map/13295511/v1-trail-us-colorado-craig-creek-trail-at-map-13295511-1654387408-414w200h-en-US-i-2-style_3.png",
+                "thumbnail_image": "https://cdn.britannica.com/74/7674-004-9F9E8CF0/Colorado-state-flag-letter-C-pattern-gold-1964.jpg",
+                "county_id": 9
+            }
+        },
+        {
+            "id": "37",
+            "type": "trails",
+            "attributes": {
+                "id": 37,
+                "name": "Yule Pass Trail",
+                "latitude": "38.998556",
+                "longitude": "-107.087055",
+                "difficulty": "green",
+                "distance": "2.3",
+                "description": "Yule Pass Trail is a 2 mile less popular green singletrack trail located near Crested Butte Colorado. This hike primary trail can be used both directions.",
+                "created_at": "2023-02-02T17:15:29.000Z",
+                "updated_at": "2023-02-02T17:15:29.000Z",
+                "start_elevation": "11,284 ft",
+                "avg_duration": null,
+                "map_image": "https://static-maps.alltrails.com/production/at-map/101733299/v1-trail-us-colorado-yule-pass-trail-via-paradise-divide-at-map-101733299-1664347372-414w200h-en-US-i-2-style_3.png",
+                "thumbnail_image": "https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvMzcxMzg1NTEvYTIxYjQyZDE3MjNkZjQyZmJiOWU2MDNkM2E0OTRjYTQuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJqcGVnIiwicmVzaXplIjp7IndpZHRoIjoxMDIyLCJoZWlnaHQiOjMxMiwiZml0IjoiY292ZXIifSwicm90YXRlIjpudWxsLCJqcGVnIjp7InRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pc2VTY2FucyI6dHJ1ZSwicXVhbnRpc2F0aW9uVGFibGUiOjN9fX0=",
+                "county_id": 10
+            }
+        },
+        {
+            "id": "38",
+            "type": "trails",
+            "attributes": {
+                "id": 38,
+                "name": "Teocalli Ridge",
+                "latitude": "38.924813",
+                "longitude": "-106.864986",
+                "difficulty": "black",
+                "distance": "4.5",
+                "description": "This is an epic trail with a fast and furious downhill. Embedded rocks all along the way down. Lost of places to grip climbing up, though sometimes loose in locations where it gets a bit washed out in some spots that are like little gullys. But a lot of buff sections as it gets a lot of traffic during summer.",
+                "created_at": "2023-02-02T17:16:38.000Z",
+                "updated_at": "2023-02-02T17:16:38.000Z",
+                "start_elevation": "11,100 ft",
+                "avg_duration": "0:46:53",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://www.twowheeledwanderer.com/wp-content/uploads/2019/10/Teocalli-Ridge1.jpeg",
+                "county_id": 10
+            }
+        },
+        {
+            "id": "39",
+            "type": "trails",
+            "attributes": {
+                "id": 39,
+                "name": "Spud Pass Trail",
+                "latitude": "38.998031",
+                "longitude": "-107.269881",
+                "difficulty": "blue",
+                "distance": "4.1",
+                "description": "Spud Pass Trail is a 4 mile less popular blue singletrack trail located near Crested Butte Colorado. This hike primary trail can be used both directions.",
+                "created_at": "2023-02-02T17:17:47.000Z",
+                "updated_at": "2023-02-02T17:17:47.000Z",
+                "start_elevation": "8,217 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/37000/route_37548_0_600x315.png",
+                "thumbnail_image": "https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvMTk1MTI0NzAvODcwNzRjN2I2NWU2NDlmOWQ2MjgxMWEwYWFkYjVkNWIuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJqcGVnIiwicmVzaXplIjp7IndpZHRoIjoxMDIyLCJoZWlnaHQiOjMxMiwiZml0IjoiY292ZXIifSwicm90YXRlIjpudWxsLCJqcGVnIjp7InRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pc2VTY2FucyI6dHJ1ZSwicXVhbnRpc2F0aW9uVGFibGUiOjN9fX0=",
+                "county_id": 10
+            }
+        },
+        {
+            "id": "40",
+            "type": "trails",
+            "attributes": {
+                "id": 40,
+                "name": "Raggeds Trail",
+                "latitude": "38.995593",
+                "longitude": "-107.291951",
+                "difficulty": "blue",
+                "distance": "3.2",
+                "description": "Raggeds Trail is a 3 mile less popular blue singletrack trail located near Crested Butte Colorado. This hike primary trail can be used both directions.",
+                "created_at": "2023-02-02T17:18:56.000Z",
+                "updated_at": "2023-02-02T17:18:56.000Z",
+                "start_elevation": "7,724 ft",
+                "avg_duration": null,
+                "map_image": "https://static-maps.alltrails.com/production/at-map/65693449/v1-trail-us-colorado-raggeds-trail-820-at-map-65693449-1655691008-414w200h-en-US-i-2-style_3.png",
+                "thumbnail_image": "https://www.aspentrailfinder.com/wp-content/uploads/2016/07/Raggeds-Trail-McClure-Pass-Marble.jpg",
+                "county_id": 10
+            }
+        },
+        {
+            "id": "41",
+            "type": "trails",
+            "attributes": {
+                "id": 41,
+                "name": "Munsey Ruby Trail",
+                "latitude": "38.974513",
+                "longitude": "-107.251631",
+                "difficulty": "black",
+                "distance": "6",
+                "description": "Munsey Ruby Trail is a 6 mile less popular black diamond singletrack trail located near Crested Butte Colorado. This hike primary trail can be used both directions.",
+                "created_at": "2023-02-02T17:20:05.000Z",
+                "updated_at": "2023-02-02T17:20:05.000Z",
+                "start_elevation": "6,911 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://images.squarespace-cdn.com/content/v1/557b004ae4b05469e3ad0a87/1463461757394-BXIGUS1DLAMK93H9TD5P/image-asset.jpeg",
+                "county_id": 10
+            }
+        },
+        {
+            "id": "42",
+            "type": "trails",
+            "attributes": {
+                "id": 42,
+                "name": "Italian Pass",
+                "latitude": "38.910621",
+                "longitude": "-106.750539",
+                "difficulty": "blue",
+                "distance": "3.1",
+                "description": "Italian Pass is a 3 mile less popular blue doubletrack trail located near Crested Butte Colorado. This atv/orv/ohv primary trail can be used both directions and has a hard overall physical rating with a 604 ft black diamond climb. On average it takes 45 minutes to complete this trail.",
+                "created_at": "2023-02-02T17:21:14.000Z",
+                "updated_at": "2023-02-02T17:21:14.000Z",
+                "start_elevation": "11,161 ft",
+                "avg_duration": "0:45:19",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/248000/248255_0_500x200.png",
+                "thumbnail_image": "https://www.climb13ers.com/_assets/images/13ers/30c673344d1d8e6b93ffcc94bb3bfca252ab1fbb.1586211807.jpg",
+                "county_id": 10
+            }
+        },
+        {
+            "id": "43",
+            "type": "trails",
+            "attributes": {
+                "id": 43,
+                "name": "Anthracite Pass (North)",
+                "latitude": "39.037136",
+                "longitude": "-107.183248",
+                "difficulty": "green",
+                "distance": "2.1",
+                "description": "Anthracite Pass (North) is a 2 mile less popular green singletrack trail located near Crested Butte Colorado. This hike primary trail can be used both directions.",
+                "created_at": "2023-02-02T17:22:23.000Z",
+                "updated_at": "2023-02-02T17:22:23.000Z",
+                "start_elevation": "9,174 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/536000/536448_3_500x200.png",
+                "thumbnail_image": "https://ajoann.com/wp-content/uploads/2018/06/2018-06-05-13.38.53-4004972974-1530326683910.jpg",
+                "county_id": 10
+            }
+        },
+        {
+            "id": "44",
+            "type": "trails",
+            "attributes": {
+                "id": 44,
+                "name": "Right Hand",
+                "latitude": "38.324753",
+                "longitude": "-106.593034",
+                "difficulty": "blue",
+                "distance": "4.7",
+                "description": "Right Hand is a 5 mile less popular blue doubletrack trail located near Sargents Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 26 minutes to complete this trail.",
+                "created_at": "2023-02-02T17:23:32.000Z",
+                "updated_at": "2023-02-02T17:23:32.000Z",
+                "start_elevation": "8,855 ft",
+                "avg_duration": "0:26:10",
+                "map_image": "https://hiiker-production-public.s3.eu-west-1.amazonaws.com/88av11pgx8cm3qpexp7ghtmvz9gt",
+                "thumbnail_image": "https://www.colorado.com/sites/default/files/styles/related_content_xxsmall/public/legacy_drupal_7_images/ATVengineerpass.jpg?h=093a13e7&itok=9tdWhJpr",
+                "county_id": 5
+            }
+        },
+        {
+            "id": "45",
+            "type": "trails",
+            "attributes": {
+                "id": 45,
+                "name": "Razor Creek",
+                "latitude": "38.287795",
+                "longitude": "-106.578565",
+                "difficulty": "blue",
+                "distance": "11.2",
+                "description": "Razor Creek is a 11 mile less popular blue doubletrack trail located near Sargents Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T17:24:41.000Z",
+                "updated_at": "2023-02-02T17:24:41.000Z",
+                "start_elevation": "10,844 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/300000/300352_0_500x200.png",
+                "thumbnail_image": "https://hikewithgravity.com/_gatsby/image/6c392d97b5e208f1fda730cb233cfbab/940a08b1419c83f46e38007daae4ffb1/day95-big-sky-min.jpg?eu=c7905c4af448f19e6b170ef04dc9a4a98e32a380ba680c666a6e3cd39f043c42015e0a9b4792a311aeb7c5018b3d4c88783a83b256ab6ed5781cc3ee267b7d4911b76bb94aaf0409dde3cd8b2a38339b64f9e88bd38170f633e724e1bc295439b1a0383fc9fa27ddc52dfacd7995b940bb31c351f80ca028048a39da9aeb13ffabe2dbcd9f4a9e51cd463724700e47c863a04f042573d27744df81db4ddf80469f710ed3cffc8d974f5829dc9f91e30d60e60bd97e70cec862bc4970b550c0bec22532266094fb997ec9d4&a=w%3D1200%26h%3D675%26fm%3Djpg%26q%3D75&cd=c32e4318bc0083a085b97c545c7832de",
+                "county_id": 5
+            }
+        },
+        {
+            "id": "46",
+            "type": "trails",
+            "attributes": {
+                "id": 46,
+                "name": "Left Hand",
+                "latitude": "38.355298",
+                "longitude": "-106.540071",
+                "difficulty": "green",
+                "distance": "3.2",
+                "description": "Left Hand is a 3 mile less popular green doubletrack trail located near Sargents Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T17:25:50.000Z",
+                "updated_at": "2023-02-02T17:25:50.000Z",
+                "start_elevation": "8,678 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/300000/300346_0_500x200.png",
+                "thumbnail_image": "https://funtreks.com/wp-content/uploads/2017/09/tg-difficult-nco-lefthand-canyon-01.jpg",
+                "county_id": 5
+            }
+        },
+        {
+            "id": "47",
+            "type": "trails",
+            "attributes": {
+                "id": 47,
+                "name": "Left Barret",
+                "latitude": "38.366983",
+                "longitude": "-106.583961",
+                "difficulty": "blue",
+                "distance": "2.7",
+                "description": "Left Barret is a 3 mile less popular blue doubletrack trail located near Sargents Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 8 minutes to complete this trail.",
+                "created_at": "2023-02-02T17:26:59.000Z",
+                "updated_at": "2023-02-02T17:26:59.000Z",
+                "start_elevation": "9,069 ft",
+                "avg_duration": "0:08:23",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "http://myoffroadradio.com/wp-content/uploads/2018/06/20180916_154619.jpg",
+                "county_id": 5
+            }
+        },
+        {
+            "id": "48",
+            "type": "trails",
+            "attributes": {
+                "id": 48,
+                "name": "Twin Peaks And Crestone Trail",
+                "latitude": "37.488287",
+                "longitude": "-105.876843",
+                "difficulty": "green",
+                "distance": "2.5",
+                "description": "Twin Peaks and Crestone Trail is a 3 mile less popular green mixed trail located near Alamosa Colorado. This mountain bike primary trail can be used both directions and has a easy overall physical rating with a 0 ft green climb.",
+                "created_at": "2023-02-02T17:28:08.000Z",
+                "updated_at": "2023-02-02T17:28:08.000Z",
+                "start_elevation": "7,548 ft",
+                "avg_duration": null,
+                "map_image": "https://static-maps.alltrails.com/production/at-map/20682906/v1-trail-us-colorado-crestone-peak-trail-at-map-20682906-1664804173-414w200h-en-US-i-2-style_3.png",
+                "thumbnail_image": "https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvMjYzNTIwMjYvMGY5YTkxMzU2YTk3MDliM2U4ZjY0ZjIzMDVlOTdmOGQuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJqcGVnIiwicmVzaXplIjp7IndpZHRoIjoxMDIyLCJoZWlnaHQiOjMxMiwiZml0IjoiY292ZXIifSwicm90YXRlIjpudWxsLCJqcGVnIjp7InRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pc2VTY2FucyI6dHJ1ZSwicXVhbnRpc2F0aW9uVGFibGUiOjN9fX0=",
+                "county_id": 10
+            }
+        },
+        {
+            "id": "49",
+            "type": "trails",
+            "attributes": {
+                "id": 49,
+                "name": "South Zapata Lake Trail",
+                "latitude": "37.609135",
+                "longitude": "-105.530644",
+                "difficulty": "blue",
+                "distance": "4.1",
+                "description": "South Zapata Lake Trail is a 4 mile less popular blue singletrack trail located near Alamosa Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T17:29:17.000Z",
+                "updated_at": "2023-02-02T17:29:17.000Z",
+                "start_elevation": "9,248 ft",
+                "avg_duration": null,
+                "map_image": "https://static-maps.alltrails.com/production/at-map/28734523/v1-trail-us-colorado-south-zapata-lake-trail-at-map-28734523-1662357606-414w200h-en-US-i-2-style_3.png",
+                "thumbnail_image": "https://www.justacoloradogal.com/wp-content/uploads/2016/07/20160704ZapataLake89-1-1024x683.jpg",
+                "county_id": 10
+            }
+        },
+        {
+            "id": "50",
+            "type": "trails",
+            "attributes": {
+                "id": 50,
+                "name": "North Fork South Zapata Trail",
+                "latitude": "37.612077",
+                "longitude": "-105.520233",
+                "difficulty": "blue",
+                "distance": "1.8",
+                "description": "North Fork South Zapata Trail is a 2 mile less popular blue singletrack trail located near Alamosa Colorado. This hike primary trail can be used both directions.",
+                "created_at": "2023-02-02T17:30:26.000Z",
+                "updated_at": "2023-02-02T17:30:26.000Z",
+                "start_elevation": "10,697 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/537000/537123_0_500x200.png",
+                "thumbnail_image": "https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvMzk5OTY5NDQvMTg5ZTAwNjc1MzNmNWM5MzliYjU0ODllOWIzYzVkZmEuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJqcGVnIiwicmVzaXplIjp7IndpZHRoIjoxMDIyLCJoZWlnaHQiOjMxMiwiZml0IjoiY292ZXIifSwicm90YXRlIjpudWxsLCJqcGVnIjp7InRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pc2VTY2FucyI6dHJ1ZSwicXVhbnRpc2F0aW9uVGFibGUiOjN9fX0=",
+                "county_id": 10
+            }
+        },
+        {
+            "id": "51",
+            "type": "trails",
+            "attributes": {
+                "id": 51,
+                "name": "Blanca Peak Trail",
+                "latitude": "37.575453",
+                "longitude": "-105.500016",
+                "difficulty": "black",
+                "distance": "2.6",
+                "description": "Blanca Peak Trail is a 3 mile less popular black diamond singletrack trail located near Alamosa Colorado. This hike primary trail can be used both directions.",
+                "created_at": "2023-02-02T17:31:35.000Z",
+                "updated_at": "2023-02-02T17:31:35.000Z",
+                "start_elevation": "11,754 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/534000/534154_1_500x200.png",
+                "thumbnail_image": "https://res.cloudinary.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_800/v1620768261/edit-store/3vgiJb572IvWzQVkn2l6Gw%3D%3D.jpg",
+                "county_id": 10
+            }
+        },
+        {
+            "id": "52",
+            "type": "trails",
+            "attributes": {
+                "id": 52,
+                "name": "Green Canyon",
+                "latitude": "37.15885",
+                "longitude": "-107.52795",
+                "difficulty": "blue",
+                "distance": "4.1",
+                "description": "This trail traverses along the western edge of Spring Creek. As far as an ATV trail, this is probably a pretty good trail. As for as a MTB trail, that is another story. The trail is consistently a very loose soil, and the climbs/descents are straight up/down. Maintaining traction while trying to ascend is exhausting, bordering on impossible in sections. Even on the flat portions, this trail is work. This trail has some wonderful views, that are best accessed by motorized transport.",
+                "created_at": "2023-02-02T17:32:44.000Z",
+                "updated_at": "2023-02-02T17:32:44.000Z",
+                "start_elevation": "6,958 ft",
+                "avg_duration": "1:51:02",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/277000/277155_1_500x200.png",
+                "thumbnail_image": "https://i.ytimg.com/vi/rUFE0EVGWxw/maxresdefault.jpg",
+                "county_id": 7
+            }
+        },
+        {
+            "id": "53",
+            "type": "trails",
+            "attributes": {
+                "id": 53,
+                "name": "Horizon Loop",
+                "latitude": "37.24719",
+                "longitude": "-107.51781",
+                "difficulty": "blue",
+                "distance": "1.9",
+                "description": "Fun trail that help connect the southern and northern portions of Sauls Creek.",
+                "created_at": "2023-02-02T17:33:53.000Z",
+                "updated_at": "2023-02-02T17:33:53.000Z",
+                "start_elevation": "7,270 ft",
+                "avg_duration": "0:11:19",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/284000/284170_0_500x200.png",
+                "thumbnail_image": "https://s3.amazonaws.com/crowdriff-media/full/7f2dc41a7680d6d083717762c303937eb680c10f2d47635239e51728f7c00289.jpg",
+                "county_id": 7
+            }
+        },
+        {
+            "id": "54",
+            "type": "trails",
+            "attributes": {
+                "id": 54,
+                "name": "Lange Canyon Trail (North)",
+                "latitude": "37.2706",
+                "longitude": "-107.48717",
+                "difficulty": "blue",
+                "distance": "1.5",
+                "description": "The north section of the Lange Canyon Trail system. Maybe the least difficult of the three trail sections, and easily ridden in either direction. As with most of the trails in the area, be aware of ATVs and horses on the trail.",
+                "created_at": "2023-02-02T17:35:02.000Z",
+                "updated_at": "2023-02-02T17:35:02.000Z",
+                "start_elevation": "7,448 ft",
+                "avg_duration": "0:11:57",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/277000/277141_0_500x200.png",
+                "thumbnail_image": "https://hiiker-production-public.s3.eu-west-1.amazonaws.com/23b1w8f5jip777zccb1ia4ddsx21",
+                "county_id": 7
+            }
+        },
+        {
+            "id": "55",
+            "type": "trails",
+            "attributes": {
+                "id": 55,
+                "name": "Lange Canyon Trail (South)",
+                "latitude": "37.25396",
+                "longitude": "-107.51015",
+                "difficulty": "blue",
+                "distance": "2.1",
+                "description": "The best trail in the Lange Canyon Trail system, and the hardest. Recommended to be done West to East for the most fun. The climb to the top is steep either way you go to it though. Be sure and take in the views at the top Great downhill and jumps going the recommended direction.As with most of the trails in the area, be aware of ATVs and horses on the trail.",
+                "created_at": "2023-02-02T17:36:11.000Z",
+                "updated_at": "2023-02-02T17:36:11.000Z",
+                "start_elevation": "7,406 ft",
+                "avg_duration": "0:25:29",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/277000/277142_0_500x200.png",
+                "thumbnail_image": "https://hiiker-production-public.s3.eu-west-1.amazonaws.com/23b1w8f5jip777zccb1ia4ddsx21",
+                "county_id": 7
+            }
+        },
+        {
+            "id": "56",
+            "type": "trails",
+            "attributes": {
+                "id": 56,
+                "name": "Little Beaver",
+                "latitude": "37.30766",
+                "longitude": "-107.47124",
+                "difficulty": "blue",
+                "distance": "5.1",
+                "description": "Connects Beaver Meadows Road to First Notch Road. This trail sees a lot of use by motorists, but is a nice bike trail too. It also allows for lower access to Jungle Canyon Road.",
+                "created_at": "2023-02-02T17:37:20.000Z",
+                "updated_at": "2023-02-02T17:37:20.000Z",
+                "start_elevation": "7,655 ft",
+                "avg_duration": "0:50:54",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/286000/286069_0_500x200.png",
+                "thumbnail_image": "https://www.wta.org/site_images/hikes/hike-image-2021-04-05-8222387385/@@images/107b79cf-8050-449a-8c8d-ac0fd025f636.jpeg",
+                "county_id": 7
+            }
+        },
+        {
+            "id": "57",
+            "type": "trails",
+            "attributes": {
+                "id": 57,
+                "name": "Ridge Trail",
+                "latitude": "37.23292",
+                "longitude": "-107.53663",
+                "difficulty": "blue",
+                "distance": "2.8",
+                "description": "Ridge Trail rides the southern rim of the Saul's Creek area. Riding is recommended from east to west, as hike-a-bike is necessary along the western most portion if done in reverse. This portion of trail is a fun, but steep and loose downhill.",
+                "created_at": "2023-02-02T17:38:29.000Z",
+                "updated_at": "2023-02-02T17:38:29.000Z",
+                "start_elevation": "7,138 ft",
+                "avg_duration": "0:23:25",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/239000/239695_2_500x200.png",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/311/waypoints/0/1556846527621_resized_Wpt%202-A.JPG",
+                "county_id": 7
+            }
+        },
+        {
+            "id": "58",
+            "type": "trails",
+            "attributes": {
+                "id": 58,
+                "name": "Rocky Canyon",
+                "latitude": "37.31669",
+                "longitude": "-107.45466",
+                "difficulty": "blue",
+                "distance": "1.8",
+                "description": "Rocky Canyon comes provides a scenic, though challenging descent from Jungle Canyon Road. The trail lives up to its name, with many chunky sections of loose, cobble-sized rocks. With that being said, if you are comfortable with some chunk, this trail is great. It offers some great views of the San Juans looking west, and has some decent flow to it. Recommended to be ridden as a downhill from Jungle Canyon, as climbing this would be a bit torturous.",
+                "created_at": "2023-02-02T17:39:38.000Z",
+                "updated_at": "2023-02-02T17:39:38.000Z",
+                "start_elevation": "8,494 ft",
+                "avg_duration": "0:23:25",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/286000/286046_0_500x200.png",
+                "thumbnail_image": "https://wp-cpr.s3.amazonaws.com/uploads/2022/07/EJ-Redrock-scaled.jpg",
+                "county_id": 7
+            }
+        },
+        {
+            "id": "59",
+            "type": "trails",
+            "attributes": {
+                "id": 59,
+                "name": "Skimmer",
+                "latitude": "37.24795",
+                "longitude": "-107.51764",
+                "difficulty": "green",
+                "distance": "1.7",
+                "description": "Skimmer is a short lollipop trail that utilizes a little bit of an oil well access road on the southern portion.",
+                "created_at": "2023-02-02T17:40:47.000Z",
+                "updated_at": "2023-02-02T17:40:47.000Z",
+                "start_elevation": "7,254 ft",
+                "avg_duration": "0:07:26",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/273000/273693_1_500x200.png",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/states/CO/background/CO%20Adams%20Lake%2011.jpg",
+                "county_id": 7
+            }
+        },
+        {
+            "id": "60",
+            "type": "trails",
+            "attributes": {
+                "id": 60,
+                "name": "Ute Creek",
+                "latitude": "37.19455",
+                "longitude": "-107.48874",
+                "difficulty": "blue",
+                "distance": "4.6",
+                "description": "Ute Creek Trail is a nice little trail going into the north portion of Spring Creek. The trail primarily follows Ute Creek, and has tie-ins with Reservoir Trail and Green Canyon Trail. The trail is mostly well packed, with some loose soil on the steeper sections. Recommended as an out-and-back.",
+                "created_at": "2023-02-02T17:41:56.000Z",
+                "updated_at": "2023-02-02T17:41:56.000Z",
+                "start_elevation": "7,819 ft",
+                "avg_duration": "0:21:48",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/277000/277886_2_500x200.png",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/2046/trail_reviews/1622392875598_20210529_135742.jpg",
+                "county_id": 7
+            }
+        },
+        {
+            "id": "61",
+            "type": "trails",
+            "attributes": {
+                "id": 61,
+                "name": "Hotel Draw",
+                "latitude": "37.6567",
+                "longitude": "-107.93253",
+                "difficulty": "green",
+                "distance": "4.9",
+                "description": "Hotel Draw Road is a 5 mile less popular green singletrack trail located near Rico Colorado. This multi-use trail can be used uphill primary. On average it takes 1 hour2 minutes to complete this trail.",
+                "created_at": "2023-02-02T17:43:05.000Z",
+                "updated_at": "2023-02-02T17:43:05.000Z",
+                "start_elevation": "9,240 ft",
+                "avg_duration": "1:02:46",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/507000/507353_0_500x200.png",
+                "thumbnail_image": "https://journeyvision46165803.files.wordpress.com/2020/08/204b0-p9032209.jpg",
+                "county_id": 11
+            }
+        },
+        {
+            "id": "62",
+            "type": "trails",
+            "attributes": {
+                "id": 62,
+                "name": "Divide Road",
+                "latitude": "37.64063",
+                "longitude": "-107.96713",
+                "difficulty": "green",
+                "distance": "12.2",
+                "description": "North end from Hermosa Creek is Hotel Draw.",
+                "created_at": "2023-02-02T17:44:14.000Z",
+                "updated_at": "2023-02-02T17:44:14.000Z",
+                "start_elevation": "10,424 ft",
+                "avg_duration": "1:08:30",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/13000/13794_2_500x200.png",
+                "thumbnail_image": "https://www.off-road.com/blog/wp-content/uploads/2019/03/B2B-20.jpg",
+                "county_id": 11
+            }
+        },
+        {
+            "id": "63",
+            "type": "trails",
+            "attributes": {
+                "id": 63,
+                "name": "Columbus Basin",
+                "latitude": "37.42911",
+                "longitude": "-108.01726",
+                "difficulty": "blue",
+                "distance": "2.1",
+                "description": "Columbus Basin is a 2 mile less popular blue doubletrack trail located near Durango Colorado. This multi-use trail can be used both directions and has a hard overall physical rating with a 0 ft black diamond climb.",
+                "created_at": "2023-02-02T17:45:23.000Z",
+                "updated_at": "2023-02-02T17:45:23.000Z",
+                "start_elevation": "11,663 ft",
+                "avg_duration": null,
+                "map_image": "https://static-maps.alltrails.com/production/at-map/27498442/v1-trail-us-colorado-columbus-basin-at-map-27498442-1645058886-414w200h-en-US-i-2-style_3.png",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/3838/highlights/1569329637934_resized_DSC_0147.JPG",
+                "county_id": 7
+            }
+        },
+        {
+            "id": "64",
+            "type": "trails",
+            "attributes": {
+                "id": 64,
+                "name": "Neptune Ohv Trail",
+                "latitude": "37.39312",
+                "longitude": "-108.06908",
+                "difficulty": "black",
+                "distance": "3",
+                "description": "Neptune Ohv Trail is a 3 mile less popular black diamond singletrack trail located near Mancos Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T17:46:32.000Z",
+                "updated_at": "2023-02-02T17:46:32.000Z",
+                "start_elevation": "9,086 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://www.coloradoinfo.com/sites/default/files/styles/open_graph_image/public/gallery/4x4-blog.jpg?itok=Er01-d0g",
+                "county_id": 12
+            }
+        },
+        {
+            "id": "65",
+            "type": "trails",
+            "attributes": {
+                "id": 65,
+                "name": "Timberline Trail",
+                "latitude": "38.93781",
+                "longitude": "-106.591",
+                "difficulty": "blue",
+                "distance": "3.5",
+                "description": "Timberline (Sec 5) is a 3 mile less popular blue doubletrack trail located near Leadville Colorado. This atv/orv/ohv primary trail can be used both directions and has a moderate overall physical rating with a 653 ft blue climb. On average it takes 57 minutes to complete this trail.",
+                "created_at": "2023-02-02T17:47:41.000Z",
+                "updated_at": "2023-02-02T17:47:41.000Z",
+                "start_elevation": "10,391 ft\n",
+                "avg_duration": "1:53:34",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvNDk5MDkwMzAvN2MwMzk4N2RmN2MxMzRiYjMyOWM0MGM3YmRlZTk3MGQuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJqcGVnIiwicmVzaXplIjp7IndpZHRoIjoxMDIyLCJoZWlnaHQiOjMxMiwiZml0IjoiY292ZXIifSwicm90YXRlIjpudWxsLCJqcGVnIjp7InRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pc2VTY2FucyI6dHJ1ZSwicXVhbnRpc2F0aW9uVGFibGUiOjN9fX0=",
+                "county_id": 13
+            }
+        },
+        {
+            "id": "66",
+            "type": "trails",
+            "attributes": {
+                "id": 66,
+                "name": "Schofield Pass Rd",
+                "latitude": "38.95351",
+                "longitude": "-106.98819",
+                "difficulty": "blue",
+                "distance": "6",
+                "description": "I added this road because most people ride up it to get to Trail 401. It starts out paved and mild, the paved road turns to a gravel road that is still pretty easy. Once you get past the turn-off to Emerald Lake the road gets steeper and looser, and there is a cliff wall near the end.",
+                "created_at": "2023-02-02T17:48:50.000Z",
+                "updated_at": "2023-02-02T17:48:50.000Z",
+                "start_elevation": "9,441 ft",
+                "avg_duration": "0:56:47",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/141000/141869_2_500x200.png",
+                "thumbnail_image": "https://flashoffroad.com/Articles/schofieldPass/image/schofieldPass12.jpg",
+                "county_id": 9
+            }
+        },
+        {
+            "id": "67",
+            "type": "trails",
+            "attributes": {
+                "id": 67,
+                "name": "Bonham Trail ",
+                "latitude": "39.10526",
+                "longitude": "-107.90434",
+                "difficulty": "green",
+                "distance": "2.7",
+                "description": "Bonham Trail is a 3 mile green singletrack trail located near Delta Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T17:49:59.000Z",
+                "updated_at": "2023-02-02T17:49:59.000Z",
+                "start_elevation": "9,782 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://4.bp.blogspot.com/-Q6a6yXcwVq0/XB1Q3uNM1LI/AAAAAAAA4Qw/9IMpGjMeBRU7LjEd4NnSAdl6OWEiq5_sgCLcBGAs/s1600/Bonham%2B003.JPG",
+                "county_id": 14
+            }
+        },
+        {
+            "id": "68",
+            "type": "trails",
+            "attributes": {
+                "id": 68,
+                "name": "725C",
+                "latitude": "39.21844",
+                "longitude": "-108.94794",
+                "difficulty": "blue",
+                "distance": "4.7",
+                "description": "725C is a 5 mile less popular blue doubletrack trail located near Fruita Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T17:51:08.000Z",
+                "updated_at": "2023-02-02T17:51:08.000Z",
+                "start_elevation": "4,813 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://coloradorealty-experts.com/wp-content/uploads/2020/04/4x4-Off-Road-in-Colorado-Mountains-Atha-Team-Blog.jpg",
+                "county_id": 15
+            }
+        },
+        {
+            "id": "69",
+            "type": "trails",
+            "attributes": {
+                "id": 69,
+                "name": "Rabbit Valley",
+                "latitude": "39.16981",
+                "longitude": "-108.98708",
+                "difficulty": "green",
+                "distance": "2.1",
+                "description": "Rabbit Valley #8 Doubletrack is a 2 mile less popular green singletrack trail located near Fruita Colorado. This multi-use trail can be used both directions. On average it takes 22 minutes to complete this trail. A license is required to use this trail.",
+                "created_at": "2023-02-02T17:52:17.000Z",
+                "updated_at": "2023-02-02T17:52:17.000Z",
+                "start_elevation": "4,629 ft",
+                "avg_duration": "0:03:54",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://3.bp.blogspot.com/-J0vYLWVQuwU/WMk7mA6K08I/AAAAAAAArgA/IisKfWii1a4I4xLANcDzxeevNULj10ulwCLcB/s1600/Rabbit%2BValley%2BSection%2B032.JPG",
+                "county_id": 15
+            }
+        },
+        {
+            "id": "80",
+            "type": "trails",
+            "attributes": {
+                "id": 80,
+                "name": "Chris Mountain 2",
+                "latitude": "37.25342",
+                "longitude": "-107.21734",
+                "difficulty": "black",
+                "distance": "3.5",
+                "description": "Chris Mountain is a 3 mile less popular black diamond singletrack trail located near Pagosa Springs Colorado. This atv/orv/ohv primary trail can be used both directions and has a hard overall physical rating with a 909 ft black diamond climb.",
+                "created_at": "2023-02-02T18:04:56.000Z",
+                "updated_at": "2023-02-02T18:04:56.000Z",
+                "start_elevation": "7,501 ft",
+                "avg_duration": "0:08:49",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/205000/205769_0_280x150.png",
+                "thumbnail_image": "https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvMTk1MTYwMzYvNGI4NjNlYmFkNjZiMWY5MGVlOTA1OTBlNzBiMTEzYWIuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJqcGVnIiwicmVzaXplIjp7IndpZHRoIjoyMDQ4LCJoZWlnaHQiOjIwNDgsImZpdCI6Imluc2lkZSJ9LCJyb3RhdGUiOm51bGwsImpwZWciOnsidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWlzZVNjYW5zIjp0cnVlLCJxdWFudGlzYXRpb25UYWJsZSI6M319fQ==",
+                "county_id": 18
+            }
+        },
+        {
+            "id": "94",
+            "type": "trails",
+            "attributes": {
+                "id": 94,
+                "name": "Signal Butte Multiuse 1",
+                "latitude": "39.01233",
+                "longitude": "-105.17335",
+                "difficulty": "blue",
+                "distance": "22.5",
+                "description": "Signal Butte Multiuse is a 22 mile less popular blue doubletrack trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:21:02.000Z",
+                "updated_at": "2023-02-02T18:21:02.000Z",
+                "start_elevation": "8,068 ft",
+                "avg_duration": "0:20:52",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://photos.production.onxmaps.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_1500,h_1500,c_limit/v1641076681/edit-store/6ec1ab9d-b895-483a-8eba-93a5b6d3875a.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "70",
+            "type": "trails",
+            "attributes": {
+                "id": 70,
+                "name": "Tabeguache Trail ",
+                "latitude": "38.98861",
+                "longitude": "-108.61732",
+                "difficulty": "blue",
+                "distance": "16.8",
+                "description": "The Tabeguache Trail is a historic motorized route connecting Grand Junction and Montrose (and likely an original route utilized by local Ute before pushed off by Europeans). It is comprised of several sections and all of them, with the exception of the section within the Lunch Loops, are motorized 4x4 trail/road. Combined, the sections create one third of the Grand Loop bikepacking adventure route. This route is the Granddaddy of bikepacking routes. This section starts at Bangs Canyon Staging Area descends 2 miles into Rough Canyon on challenging slickrock and dirt trail with multiple rock features that require a high-clearance 4x4, some skill, and effort. For mountain bikers, this descent is rowdy and fun. The climb out of Rough Canyon is a sustained, loose, technical 4x4 track that will challenge even the most capable motorized users and is a strenuous, difficult climb for MTBers. The reward is access to beautiful terrain and a unique experience. Cresting over the top of this climb, after passing Windmill Road, is an unforgettable experience that transports you to another time. The descent down into 141 is technical, challenging, sustained, and downright gnarly at times. Stock Jeeps will be outmatched in even the most skilled hands. Mountain bikers that love technical descents will have sore faces from grinning so hard. Challenging and amazing in both directions, this trail provides access to the top of Windmill Road and the new Windmill motorized singletrack trail. Descending into Rough Canyon from the East is considered by locals one of the best downhill mountainbike experiences in the Grand Valley and worth the hard work. The remote nature of this trail should not be taken lightly. Any issues on the trail will require a difficult and lengthy rescue by Mesa County Search and Rescue. Significant injuries will likely require a helicopter extraction after a ground team has stabilized the injured party. Go prepared.",
+                "created_at": "2023-02-02T17:53:26.000Z",
+                "updated_at": "2023-02-02T17:53:26.000Z",
+                "start_elevation": "6,128 ft",
+                "avg_duration": "2:35:25",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/427000/427035_6_500x200.png",
+                "thumbnail_image": "https://jeeptourscolorado.com/wp-content/uploads/2021/04/JeepToursColorado_Native_Jeeps_TabeguacheTrail-1024x768.jpg",
+                "county_id": 15
+            }
+        },
+        {
+            "id": "71",
+            "type": "trails",
+            "attributes": {
+                "id": 71,
+                "name": "Horse Mesa Double Track",
+                "latitude": "38.98705",
+                "longitude": "-108.60179",
+                "difficulty": "green",
+                "distance": "9.5",
+                "description": "Horse Mesa Double Track is a 9 mile less popular green singletrack trail located near Grand Junction Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T17:54:35.000Z",
+                "updated_at": "2023-02-02T17:54:35.000Z",
+                "start_elevation": "5,984 ft",
+                "avg_duration": "1:14:26",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/539000/539468_0_500x200.png",
+                "thumbnail_image": "https://www.discovermoab.com/wp-content/uploads/2020/04/u313-01-1.jpg",
+                "county_id": 15
+            }
+        },
+        {
+            "id": "72",
+            "type": "trails",
+            "attributes": {
+                "id": 72,
+                "name": "Billings Canyon Road",
+                "latitude": "39.0092",
+                "longitude": "-108.57357",
+                "difficulty": "green",
+                "distance": "4",
+                "description": "Billings Canyon Road is a 4 mile less popular green doubletrack trail located near Grand Junction Colorado. This multi-use trail can be used both directions. On average it takes 1 hour1 minutes to complete this trail.",
+                "created_at": "2023-02-02T17:55:44.000Z",
+                "updated_at": "2023-02-02T17:55:44.000Z",
+                "start_elevation": "5,294 ft",
+                "avg_duration": "1:01:07",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/171000/171822_3_500x200.png",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/220/trail_reviews/1600956621251_resized_20200916_130805.jpg",
+                "county_id": 15
+            }
+        },
+        {
+            "id": "73",
+            "type": "trails",
+            "attributes": {
+                "id": 73,
+                "name": "Imogene Pass Road",
+                "latitude": "37.97482",
+                "longitude": "-107.74577",
+                "difficulty": "blue",
+                "distance": "11.6",
+                "description": "This off-highway vehicle route links the Colorado towns of Telluride and Ouray on a challenging road that traverses over the 13,114-foot Imogene Pass. From Telluride, Co visitors will have breathtaking views of Bridal Veil and Ingram Falls as they climb the narrow road. At approximately 4.5 miles, the road enters Savage Basin and continues through the privately-owned Tomboy Townsite. Remnants from this historic mining town can be seen from the road (Please respect private land by not trespassing on the Tomboy Townsite property). There is ample room to park at Imogene Pass where there are many photo opportunities of the surrounding high alpine terrain. The road then descends into beautiful Imogene Basin, passing through the upper Camp BiRoad Mine site and traversing past a spectacular waterfall before connecting to the Camp BiRoad Road (County Road 361). High clearance, 4-wheel drive vehicles are strongly recommended.",
+                "created_at": "2023-02-02T17:56:53.000Z",
+                "updated_at": "2023-02-02T17:56:53.000Z",
+                "start_elevation": "10,576 ft",
+                "avg_duration": "1:09:10",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/196000/196845_0_500x200.png",
+                "thumbnail_image": "https://funtreks.com/wp-content/uploads/2017/10/tg-moderate-co-imogene-pass-01.jpg",
+                "county_id": 16
+            }
+        },
+        {
+            "id": "74",
+            "type": "trails",
+            "attributes": {
+                "id": 74,
+                "name": "Black Bear Road",
+                "latitude": "37.89678",
+                "longitude": "-107.71345",
+                "difficulty": "black",
+                "distance": "9.6",
+                "description": "This OHV route offers a very technical trail that is not for inexperienced drivers or riders. While most of the road is moderate in difficulty. the mile-long stretch of steep switchbacks on the Telluride side above Bridal Veil Falls is rated as difficult. A high clearance, short wheel base, four wheel drive vehicle is strongly recommended for this section of the road. The road starts from State Highway 550 at Red Mountain Pass (signed as Forest Road #823) and climbs quickly to Black Bear Pass at 3.2 miles. There is ample room for parking at the Pass where there are views into Ingram Basin. The road then descends into Ingram Basin, past Ingram Lake and the Black Bear Mine. At approx. 5.6 miles the road begins descending the \"Steps\" which are comprised of a series of steep, technical rock steps. From this point down to the Bridal Veil Powerplant (approx 1 mile), the road is one-way only. Once down the \"Steps\", the road continues past Ingram Falls, making extremely tight, narrow switchbacks until it reaches the Bridal Veil Falls Powerplant. Driving, riding, or walking down this section of the road is not only a thrill; it also offers spectacular views of the Telluride Valley, Ingram Fall, and Bridal Veil Falls.",
+                "created_at": "2023-02-02T17:58:02.000Z",
+                "updated_at": "2023-02-02T17:58:02.000Z",
+                "start_elevation": "11,078 ft",
+                "avg_duration": "1:51:30",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/196000/196843_1_500x200.png",
+                "thumbnail_image": "https://trail4runner.com/wp-content/uploads/2022/01/Brenan_4Runner_Black_Bear_Pass_2021-52-1024x682.jpg",
+                "county_id": 16
+            }
+        },
+        {
+            "id": "75",
+            "type": "trails",
+            "attributes": {
+                "id": 75,
+                "name": "East Dallas",
+                "latitude": "38.03979",
+                "longitude": "-107.81009",
+                "difficulty": "green",
+                "distance": "2.5",
+                "description": "East Dallas is a 3 mile less popular green singletrack trail located near Telluride Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 11 minutes to complete this trail.",
+                "created_at": "2023-02-02T17:59:11.000Z",
+                "updated_at": "2023-02-02T17:59:11.000Z",
+                "start_elevation": "9,431 ft",
+                "avg_duration": "0:11:48",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/197000/197148_0_500x200.png",
+                "thumbnail_image": "http://2.bp.blogspot.com/-mtd0lxcRJVY/TmNyJKnnlhI/AAAAAAAAJVU/CouwynIe1wg/s1600/IMG_4702.JPG",
+                "county_id": 16
+            }
+        },
+        {
+            "id": "76",
+            "type": "trails",
+            "attributes": {
+                "id": 76,
+                "name": "Wilson Creek",
+                "latitude": "38.03475",
+                "longitude": "-107.79612",
+                "difficulty": "blue",
+                "distance": "2.4",
+                "description": "Wilson Creek is a 2 mile less popular blue singletrack trail located near Telluride Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 21 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:00:20.000Z",
+                "updated_at": "2023-02-02T18:00:20.000Z",
+                "start_elevation": "9,654 ft",
+                "avg_duration": "0:21:17",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/197000/197147_0_500x200.png",
+                "thumbnail_image": "https://i0.wp.com/www.itstartedoutdoors.com/wp-content/uploads/2017/10/wilson-16.jpg",
+                "county_id": 16
+            }
+        },
+        {
+            "id": "77",
+            "type": "trails",
+            "attributes": {
+                "id": 77,
+                "name": "Bear Town",
+                "latitude": "37.71144",
+                "longitude": "-107.52808",
+                "difficulty": "blue",
+                "distance": "6.2",
+                "description": "Bear Town is a 6 mile less popular blue doubletrack trail located near Silverton Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:01:29.000Z",
+                "updated_at": "2023-02-02T18:01:29.000Z",
+                "start_elevation": "12,123 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/4620/highlights/1599318026444_resized_P1111929.jpg",
+                "county_id": 17
+            }
+        },
+        {
+            "id": "78",
+            "type": "trails",
+            "attributes": {
+                "id": 78,
+                "name": "Lost Trail",
+                "latitude": "37.77155",
+                "longitude": "-107.35725",
+                "difficulty": "blue",
+                "distance": "7.1",
+                "description": "OHV 2 track trail...This is a brutal ride on a mountain bike. Lots of steep pitches more suitable for the massive amounts of ATV/Moto and Horse traffic it receives. Hike a bike in the beginning/middle and edit in sections mixed with some mellow climbs and easy traversing.",
+                "created_at": "2023-02-02T18:02:38.000Z",
+                "updated_at": "2023-02-02T18:02:38.000Z",
+                "start_elevation": "9,772 ft",
+                "avg_duration": "4:22:47",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/133000/133399_2_500x200.png",
+                "thumbnail_image": "https://photos.production.onxmaps.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_1500,h_1500,c_limit/v1666642631/edit-store/2534a843-4359-4896-a48c-9921d9c858bd.jpg",
+                "county_id": 17
+            }
+        },
+        {
+            "id": "93",
+            "type": "trails",
+            "attributes": {
+                "id": 93,
+                "name": "Signal Butte Multiuse 2",
+                "latitude": "39.07804",
+                "longitude": "-105.16029",
+                "difficulty": "blue",
+                "distance": "5.5",
+                "description": "Signal Butte Multiuse is a 5 mile less popular blue doubletrack trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:19:53.000Z",
+                "updated_at": "2023-02-02T18:19:53.000Z",
+                "start_elevation": "9,023 ft",
+                "avg_duration": "3:24:01",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/7375/highlights/1663961117907_resizedS1000229SignalButteMP400070517Still007SignalButte2022AIColor.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "81",
+            "type": "trails",
+            "attributes": {
+                "id": 81,
+                "name": "Chris Mtn (Loop)",
+                "latitude": "37.28014",
+                "longitude": "-107.20243",
+                "difficulty": "blue",
+                "distance": "4",
+                "description": "This is a very rocky trail for every user group. This is primarily a ATV trail and has beautiful views and low traffic.",
+                "created_at": "2023-02-02T18:06:05.000Z",
+                "updated_at": "2023-02-02T18:06:05.000Z",
+                "start_elevation": "8,347 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvNDEyMjczNjQvMDM2ZTVlN2FjZDY1MWRmMGRhNjU2ODhjNjQ3MDIxZWQuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJqcGVnIiwicmVzaXplIjp7IndpZHRoIjoyMDQ4LCJoZWlnaHQiOjIwNDgsImZpdCI6Imluc2lkZSJ9LCJyb3RhdGUiOm51bGwsImpwZWciOnsidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWlzZVNjYW5zIjp0cnVlLCJxdWFudGlzYXRpb25UYWJsZSI6M319fQ==",
+                "county_id": 18
+            }
+        },
+        {
+            "id": "82",
+            "type": "trails",
+            "attributes": {
+                "id": 82,
+                "name": "Chris Mountain 1",
+                "latitude": "37.290755",
+                "longitude": "-107.171302",
+                "difficulty": "blue",
+                "distance": "1.7",
+                "description": "Chris Mountain is a 2 mile less popular blue doubletrack trail located near Pagosa Springs Colorado. This atv/orv/ohv primary trail can be used both directions and has a moderate overall physical rating with a 705 ft blue climb. On average it takes 16 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:07:14.000Z",
+                "updated_at": "2023-02-02T18:07:14.000Z",
+                "start_elevation": "8,173 ft",
+                "avg_duration": "0:16:51",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/205000/205763_1_500x200.png",
+                "thumbnail_image": "https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvMTkzOTM5NzMvMTZhOTYxNjU1Y2RkNTcyNGY1MDVhMzY5OTRhMzU4MzcuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJqcGVnIiwicmVzaXplIjp7IndpZHRoIjoyMDQ4LCJoZWlnaHQiOjIwNDgsImZpdCI6Imluc2lkZSJ9LCJyb3RhdGUiOm51bGwsImpwZWciOnsidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWlzZVNjYW5zIjp0cnVlLCJxdWFudGlzYXRpb25UYWJsZSI6M319fQ==",
+                "county_id": 18
+            }
+        },
+        {
+            "id": "83",
+            "type": "trails",
+            "attributes": {
+                "id": 83,
+                "name": "Aspen Spur",
+                "latitude": "37.473256",
+                "longitude": "-108.128155",
+                "difficulty": "blue",
+                "distance": "4.8",
+                "description": "The Aspen Spur trail is 3.8 miles long. It begins at Forest Trail 631 - Aspen Loop Trail. W. and ends at Forest Trail 631 - Aspen Loop Trail. E. The trail is open for the following uses: Off Highway Vehicles (OHV) less than or equal to 50 inches wide",
+                "created_at": "2023-02-02T18:08:23.000Z",
+                "updated_at": "2023-02-02T18:08:23.000Z",
+                "start_elevation": "10,178 ft",
+                "avg_duration": "1:05:37",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://res.cloudinary.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_800/v1620769149/edit-store/kZXxi9qI63wRFOC7Ll%2Bdwg%3D%3D.jpg",
+                "county_id": 12
+            }
+        },
+        {
+            "id": "84",
+            "type": "trails",
+            "attributes": {
+                "id": 84,
+                "name": "Middle Mountain Trail ",
+                "latitude": "39.84825",
+                "longitude": "-107.80332",
+                "difficulty": "black ",
+                "distance": "4.5",
+                "description": "Tough ATV trail that can be used to get you up and down from the Flat Tops.",
+                "created_at": "2023-02-02T18:09:32.000Z",
+                "updated_at": "2023-02-02T18:09:32.000Z",
+                "start_elevation": "9,063 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/292000/292084_1_500x200.png",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/1940/highlights/1548463931750_resized_PS%203-10.jpg",
+                "county_id": 19
+            }
+        },
+        {
+            "id": "85",
+            "type": "trails",
+            "attributes": {
+                "id": 85,
+                "name": "Middle Miller Creek Trail ",
+                "latitude": "39.85325",
+                "longitude": "-107.77844",
+                "difficulty": "black",
+                "distance": "4",
+                "description": "This tough trail accesses the Flat Tops from the north. It is not as good a trail as neighboring East Miller Creek Trail. The bottom portion of the trail is open to ATV's. The top half to only dirt bikes. There are many good camping sites on the Middle Miller access road. The first portion starting from the bottom is pretty rideable. After the first half mile it gets steeper and more torn up. The further up the trail you get, the more overgrown it is. During the last mile or so at the top it levels off, but is very overgrown and hard to follow.",
+                "created_at": "2023-02-02T18:10:41.000Z",
+                "updated_at": "2023-02-02T18:10:41.000Z",
+                "start_elevation": "7,610 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/292000/292083_0_500x200.png",
+                "thumbnail_image": "https://res.cloudinary.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_800/v1620769098/edit-store/4pcnTTd4hVSArLSxKiMkWA%3D%3D.jpg",
+                "county_id": 19
+            }
+        },
+        {
+            "id": "86",
+            "type": "trails",
+            "attributes": {
+                "id": 86,
+                "name": "Burford-New Castle Parallel OHV",
+                "latitude": "39.73182",
+                "longitude": "-107.64787",
+                "difficulty": "green",
+                "distance": "7.7",
+                "description": "This is the south part of the trail maintained by the White River Trail Runners through a partnership with the White River National Forest. The trail is open to motorized vehicles less than 62 inches in width. It is also open to foot, horse, and bicycle travel. Please drive carefully and be courteous to all users. This OHV route leads users across open meadows and through scenic stands of spruce and aspen. The trail also crosses through Lake Park, Seaman Park, and Triangle Park. There are numerous dispersed camping locations along the entire length of the trail. Trail #2290 features several road crossings, please exercise extreme caution at all intersections. OHVs are not permitted on the Buford-New Castle Road (Forest Road 245).",
+                "created_at": "2023-02-02T18:11:50.000Z",
+                "updated_at": "2023-02-02T18:11:50.000Z",
+                "start_elevation": "9,009 ft",
+                "avg_duration": "1:15:10",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/190000/190576_0_280x150.png",
+                "thumbnail_image": "https://www.dangerousroads.org/cache/images/900x/c/newcastlebufordroad0-4be325b4.webp",
+                "county_id": 20
+            }
+        },
+        {
+            "id": "87",
+            "type": "trails",
+            "attributes": {
+                "id": 87,
+                "name": "Red hill Road",
+                "latitude": "39.57541",
+                "longitude": "-107.02677",
+                "difficulty": "black ",
+                "distance": "7.3",
+                "description": "The trail can be ridden in either direction, but it is probably easiest to ride it counter-clockwise as the northeastern side is steep and rocky. There are parking areas at both ends. It is probably best to park at the finish (northeast side) then ride along the paved Cottonwood Pass Road to the start of Red Hill Road. Also, there are dirt trails that parallel the paved road if you prefer. The first third of the route is a a steady, rolling climb. After reaching the high point at 2.4 miles, the route begins a steady descent which becomes noticeably steeper around the 4.5-mile point. ",
+                "created_at": "2023-02-02T18:12:59.000Z",
+                "updated_at": "2023-02-02T18:12:59.000Z",
+                "start_elevation": "7,673 ft",
+                "avg_duration": "0:51:27",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/195000/195077_1_500x200.png",
+                "thumbnail_image": "https://i.ytimg.com/vi/4hrJ6NZLxtE/sddefault.jpg",
+                "county_id": 21
+            }
+        },
+        {
+            "id": "88",
+            "type": "trails",
+            "attributes": {
+                "id": 88,
+                "name": "Boiler Creek ",
+                "latitude": "39.7158",
+                "longitude": "-107.41047",
+                "difficulty": "blue",
+                "distance": "8.1",
+                "description": "Boiler Creek is a 8 mile blue singletrack trail located near Glenwood Springs Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T18:14:08.000Z",
+                "updated_at": "2023-02-02T18:14:08.000Z",
+                "start_elevation": "10,962 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://www.uncovercolorado.com/wp-content/uploads/2017/10/Kelly-Flats-Off-Road-Colorado-Flickr-CC.jpeg",
+                "county_id": 20
+            }
+        },
+        {
+            "id": "89",
+            "type": "trails",
+            "attributes": {
+                "id": 89,
+                "name": "Basalt Mountain Road ",
+                "latitude": "39.43707",
+                "longitude": "-107.01248",
+                "difficulty": "green ",
+                "distance": "7.2",
+                "description": "Basalt Mountain Road is a 7 mile less popular green doubletrack trail located near Basalt Colorado. This atv/orv/ohv primary trail can be used both directions and has a moderate overall physical rating with a 187 ft blue climb. On average it takes 39 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:15:17.000Z",
+                "updated_at": "2023-02-02T18:15:17.000Z",
+                "start_elevation": "9,682 ft",
+                "avg_duration": "0:39:41",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/98000/98947_2_500x200.png",
+                "thumbnail_image": "https://www.aspentrailfinder.com/wp-content/uploads/2014/09/Basalt-Mountain-Road.jpg",
+                "county_id": 21
+            }
+        },
+        {
+            "id": "90",
+            "type": "trails",
+            "attributes": {
+                "id": 90,
+                "name": "8363",
+                "latitude": "39.61347",
+                "longitude": "-107.025",
+                "difficulty": "black",
+                "distance": "2.7",
+                "description": "This trail can be ridden in either direction, but is easier in the downhill direction on a MTB. The West side of the trail can be accessed via Red Hill Road.",
+                "created_at": "2023-02-02T18:16:26.000Z",
+                "updated_at": "2023-02-02T18:16:26.000Z",
+                "start_elevation": "7,961 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://www.onxmaps.com/wp-content/uploads/sites/7/2021/06/colorado-offroad.jpg",
+                "county_id": 21
+            }
+        },
+        {
+            "id": "91",
+            "type": "trails",
+            "attributes": {
+                "id": 91,
+                "name": "8361",
+                "latitude": "39.58663",
+                "longitude": "-107.02298",
+                "difficulty": "blue",
+                "distance": "2.2",
+                "description": "This trail is accessible via Red Hill Road. It is easiest to ride Cottonwood Pass to the South end of Red Hill Road, then follow Red Hill Road to 8361.",
+                "created_at": "2023-02-02T18:17:35.000Z",
+                "updated_at": "2023-02-02T18:17:35.000Z",
+                "start_elevation": "7,817 ft",
+                "avg_duration": "0:18:36",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "http://www.offroaders.com/wp/wp-content/uploads/2017/02/ORV-Parks.jpg",
+                "county_id": 21
+            }
+        },
+        {
+            "id": "92",
+            "type": "trails",
+            "attributes": {
+                "id": 92,
+                "name": "West Creek Spur",
+                "latitude": "39.0272",
+                "longitude": "-105.20691",
+                "difficulty": "blue",
+                "distance": "3.6",
+                "description": "West Creek Spur is a 4 mile less popular blue doubletrack trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:18:44.000Z",
+                "updated_at": "2023-02-02T18:18:44.000Z",
+                "start_elevation": "8,941 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://s0.wklcdn.com/image_241/7240397/57638508/38503242Master.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "95",
+            "type": "trails",
+            "attributes": {
+                "id": 95,
+                "name": "Turkey Creek ",
+                "latitude": "39.07826",
+                "longitude": "-105.27199",
+                "difficulty": "blue",
+                "distance": "4.1",
+                "description": "Turkey Creek is a 4 mile less popular blue doubletrack trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:22:11.000Z",
+                "updated_at": "2023-02-02T18:22:11.000Z",
+                "start_elevation": "8,992 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/4235/highlights/1588784045015_resized_P1044534.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "96",
+            "type": "trails",
+            "attributes": {
+                "id": 96,
+                "name": "Trout Creek Connection",
+                "latitude": "39.23657",
+                "longitude": "-105.10823",
+                "difficulty": "blue",
+                "distance": "1.8",
+                "description": "Trout Creek Connection is a 2 mile less popular blue doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:23:20.000Z",
+                "updated_at": "2023-02-02T18:23:20.000Z",
+                "start_elevation": "8,679 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276573_0_500x200.png",
+                "thumbnail_image": "https://res.cloudinary.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_800/v1620767618/edit-store/b2avdNu2ynp64oQV0OTzDQ%3D%3D.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "97",
+            "type": "trails",
+            "attributes": {
+                "id": 97,
+                "name": "Trout Creek 2",
+                "latitude": "39.23312",
+                "longitude": "-105.09602",
+                "difficulty": "green ",
+                "distance": "1.9",
+                "description": "Trout Creek is a 2 mile less popular green doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:24:29.000Z",
+                "updated_at": "2023-02-02T18:24:29.000Z",
+                "start_elevation": "8,490 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276574_0_500x200.png",
+                "thumbnail_image": "https://res.cloudinary.com/rc-daily-onxmaps/image/upload/v1628006597/edit-store/77ef23fc-77e1-43d2-aec2-34015e85c5c6.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "98",
+            "type": "trails",
+            "attributes": {
+                "id": 98,
+                "name": "Tomahawk",
+                "latitude": "39.31541",
+                "longitude": "-105.06579",
+                "difficulty": "blue",
+                "distance": "3.2",
+                "description": "Tomahawk is a 3 mile less popular blue doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 17 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:25:38.000Z",
+                "updated_at": "2023-02-02T18:25:38.000Z",
+                "start_elevation": "8,089 ft",
+                "avg_duration": "0:17:33",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvMjMyMzgwOTAvNTI4MzE0N2JjNmQ4Yjg2MTc3NzNiYWIzMzU3NDgyMjUuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJqcGVnIiwicmVzaXplIjp7IndpZHRoIjoxMDIyLCJoZWlnaHQiOjMxMiwiZml0IjoiY292ZXIifSwicm90YXRlIjpudWxsLCJqcGVnIjp7InRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pc2VTY2FucyI6dHJ1ZSwicXVhbnRpc2F0aW9uVGFibGUiOjN9fX0=",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "99",
+            "type": "trails",
+            "attributes": {
+                "id": 99,
+                "name": "Skeleton Gulch",
+                "latitude": "40.458935",
+                "longitude": "-105.871725",
+                "difficulty": "black",
+                "distance": "1.2",
+                "description": "No Description Provided",
+                "created_at": "2023-02-02T18:26:47.000Z",
+                "updated_at": "2023-02-02T18:26:47.000Z",
+                "start_elevation": "10,165 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://cdn.shopify.com/s/files/1/1827/4457/files/3D371A8E-E4E7-4f6b-ADC2-88203365163A_1024x1024.png?v=1667448168",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "100",
+            "type": "trails",
+            "attributes": {
+                "id": 100,
+                "name": "Signal Butte",
+                "latitude": "39.07309",
+                "longitude": "-105.19935",
+                "difficulty": "green",
+                "distance": "5.0",
+                "description": "Signal Butte is a 5 mile less popular green dirt/gravel road trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:27:56.000Z",
+                "updated_at": "2023-02-02T18:27:56.000Z",
+                "start_elevation": "8,776 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/505000/505784_0_500x200.png",
+                "thumbnail_image": "https://photos.production.onxmaps.com/production-onxmaps/image/upload/c_limit,f_auto,h_1500,q_auto,w_1500/v1/public/28e0225b-ddc0-48a7-bd34-e5cb8dd666eb.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "101",
+            "type": "trails",
+            "attributes": {
+                "id": 101,
+                "name": "Scotty's ",
+                "latitude": "39.31541",
+                "longitude": "-105.06579",
+                "difficulty": "blue",
+                "distance": "4.2",
+                "description": "Scotty's is a 4 mile less popular blue doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:29:05.000Z",
+                "updated_at": "2023-02-02T18:29:05.000Z",
+                "start_elevation": "8,087 ft",
+                "avg_duration": "0:22:20",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276546_0_500x200.png",
+                "thumbnail_image": "https://axlengear.com/wp-content/uploads/2017/08/Depositphotos_64344893_original.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "102",
+            "type": "trails",
+            "attributes": {
+                "id": 102,
+                "name": "Rule Spur",
+                "latitude": "38.99282",
+                "longitude": "-105.10711",
+                "difficulty": "blue",
+                "distance": "9.2",
+                "description": "Rule Spur is a 9 mile less popular blue singletrack trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 35 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:30:14.000Z",
+                "updated_at": "2023-02-02T18:30:14.000Z",
+                "start_elevation": "9,079 ft",
+                "avg_duration": "0:35:15",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/440/trail_reviews/1662949378620_resized20220911144437.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "103",
+            "type": "trails",
+            "attributes": {
+                "id": 103,
+                "name": "Rankin",
+                "latitude": "39.04287",
+                "longitude": "-105.18951",
+                "difficulty": "green",
+                "distance": "3.6",
+                "description": "Rankin is a 4 mile less popular green dirt/gravel road trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:31:23.000Z",
+                "updated_at": "2023-02-02T18:31:23.000Z",
+                "start_elevation": "8,439 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/2542/trail_reviews/1590549340291_resized_IMG_6749.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "104",
+            "type": "trails",
+            "attributes": {
+                "id": 104,
+                "name": "Rampart Range",
+                "latitude": "39.37634",
+                "longitude": "-105.09549",
+                "difficulty": "blue",
+                "distance": "7.8",
+                "description": "Rampart Range is a 8 mile less popular blue doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 31 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:32:32.000Z",
+                "updated_at": "2023-02-02T18:32:32.000Z",
+                "start_elevation": "7,635 ft",
+                "avg_duration": "0:31:08",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276540_0_500x200.png",
+                "thumbnail_image": "https://res.cloudinary.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_800/v1620768420/edit-store/8y1TskQ8cf50UeQTr9C9Dg%3D%3D.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "105",
+            "type": "trails",
+            "attributes": {
+                "id": 105,
+                "name": "Phantom Spur 2",
+                "latitude": "39.07623",
+                "longitude": "-105.19114",
+                "difficulty": "blue",
+                "distance": "7.2",
+                "description": "Phantom Spur is a 7 mile less popular blue doubletrack trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:33:41.000Z",
+                "updated_at": "2023-02-02T18:33:41.000Z",
+                "start_elevation": "8,121 ft",
+                "avg_duration": "0:11:36",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/415/highlights/1566183356950_resized_Trailsoffroad_Phantom_Canyon_20190816_131416.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "106",
+            "type": "trails",
+            "attributes": {
+                "id": 106,
+                "name": "Dist Boundary",
+                "latitude": "39.04804",
+                "longitude": "-105.28192",
+                "difficulty": "green",
+                "distance": "1.7",
+                "description": "Dist Boundary is a 2 mile less popular green dirt/gravel road trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:34:50.000Z",
+                "updated_at": "2023-02-02T18:34:50.000Z",
+                "start_elevation": "9,251 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://cdn.buttercms.com/RT5LeLmsRTG9To6VZZdz",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "107",
+            "type": "trails",
+            "attributes": {
+                "id": 107,
+                "name": "Chestnut",
+                "latitude": "39.09973",
+                "longitude": "-105.21391",
+                "difficulty": "green",
+                "distance": "1.8",
+                "description": "Chestnut is a 2 mile less popular green dirt/gravel road trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 13 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:35:59.000Z",
+                "updated_at": "2023-02-02T18:35:59.000Z",
+                "start_elevation": "8,565 ft",
+                "avg_duration": "0:13:33",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://www.uncovercolorado.com/wp-content/uploads/2017/10/Colorado-Jeep-Off-Road-Trail-Tomboy-Teluride-1280x640.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "108",
+            "type": "trails",
+            "attributes": {
+                "id": 108,
+                "name": "Art Cooks View",
+                "latitude": "39.00851",
+                "longitude": "-108.57406",
+                "difficulty": "blue",
+                "distance": "1.8",
+                "description": "Art Cooks View is a 2 mile less popular blue doubletrack trail located near Grand Junction Colorado. This multi-use trail can be used both directions and has a moderate overall physical rating with a 64 ft blue climb. On average it takes 22 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:37:08.000Z",
+                "updated_at": "2023-02-02T18:37:08.000Z",
+                "start_elevation": "5,300 ft",
+                "avg_duration": "0:22:28",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/utahddm/_1937ebe0-af8a-4df3-b79c-77b56c47f1ff.ec50330026.jpg",
+                "county_id": 15
+            }
+        },
+        {
+            "id": "109",
+            "type": "trails",
+            "attributes": {
+                "id": 109,
+                "name": "Phantom Spur 1",
+                "latitude": "39.07694",
+                "longitude": "-105.16417",
+                "difficulty": "blue",
+                "distance": "2.3",
+                "description": "Phantom Spur is a 2 mile less popular blue doubletrack trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 11 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:38:17.000Z",
+                "updated_at": "2023-02-02T18:38:17.000Z",
+                "start_elevation": "8,121 ft",
+                "avg_duration": "0:11:36",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/2576/trail_reviews/1662948067873_resized20220911124702.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "110",
+            "type": "trails",
+            "attributes": {
+                "id": 110,
+                "name": "Phantom",
+                "latitude": "39.02129",
+                "longitude": "-105.25294",
+                "difficulty": "green",
+                "distance": "6.7",
+                "description": "Phantom is a 7 mile less popular green dirt/gravel road trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:39:26.000Z",
+                "updated_at": "2023-02-02T18:39:26.000Z",
+                "start_elevation": "9,142 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/2576/trail_reviews/1662400455456_resized20211011140008.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "111",
+            "type": "trails",
+            "attributes": {
+                "id": 111,
+                "name": "Overlook",
+                "latitude": "39.30679",
+                "longitude": "-105.08276",
+                "difficulty": "blue",
+                "distance": "3.0",
+                "description": "Overlook is a 3 mile less popular blue doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 10 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:40:35.000Z",
+                "updated_at": "2023-02-02T18:40:35.000Z",
+                "start_elevation": "8,370 ft",
+                "avg_duration": "0:10:53",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276568_0_500x200.png",
+                "thumbnail_image": "https://ouraymountainadventures.com/wp-content/uploads/2018/05/image-1024x768.png",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "112",
+            "type": "trails",
+            "attributes": {
+                "id": 112,
+                "name": "Noodle",
+                "latitude": "39.3219",
+                "longitude": "-105.12904",
+                "difficulty": "black",
+                "distance": "7.2",
+                "description": "Noodle is a 7 mile less popular black diamond doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:41:44.000Z",
+                "updated_at": "2023-02-02T18:41:44.000Z",
+                "start_elevation": "7,828 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276555_0_280x150.png",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/280/trail_reviews/1673132746759_resized20230106143146.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "113",
+            "type": "trails",
+            "attributes": {
+                "id": 113,
+                "name": "No Name",
+                "latitude": "39.13141",
+                "longitude": "-105.17078",
+                "difficulty": "green",
+                "distance": "5.5",
+                "description": "No Name is a 5 mile less popular green dirt/gravel road trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 16 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:42:53.000Z",
+                "updated_at": "2023-02-02T18:42:53.000Z",
+                "start_elevation": "7,681 ft",
+                "avg_duration": "0:16:39",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://thenewswheel.com/wp-content/uploads/2018/06/Red-Elephant-Hill-Off-Road-Trail-Colorado-1000x636.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "114",
+            "type": "trails",
+            "attributes": {
+                "id": 114,
+                "name": "Manchester",
+                "latitude": "39.08518",
+                "longitude": "-105.21017",
+                "difficulty": "green",
+                "distance": "9.9",
+                "description": "Manchester is a 10 mile less popular green dirt/gravel road trail located near Woodland Park Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 56 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:44:02.000Z",
+                "updated_at": "2023-02-02T18:44:02.000Z",
+                "start_elevation": "8,261 ft",
+                "avg_duration": "0:56:23",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/2541/trail_reviews/1664063360194_resized43726982CCA7451882CA1331FC794446.jpeg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "115",
+            "type": "trails",
+            "attributes": {
+                "id": 115,
+                "name": "Long Hollow",
+                "latitude": "39.2768",
+                "longitude": "-105.10893",
+                "difficulty": "blue",
+                "distance": "12.6",
+                "description": "Long Hollow is a 13 mile less popular blue doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 1 hour12 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:45:11.000Z",
+                "updated_at": "2023-02-02T18:45:11.000Z",
+                "start_elevation": "8,573 ft",
+                "avg_duration": "1:53:34",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276552_0_280x150.png",
+                "thumbnail_image": "https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvMjEyNjM3NzQvODE0NTAwNGQyMTQ0Y2E4NTExN2MxZDk1ZWUwY2M2ZTguanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJqcGVnIiwicmVzaXplIjp7IndpZHRoIjoyMDQ4LCJoZWlnaHQiOjIwNDgsImZpdCI6Imluc2lkZSJ9LCJyb3RhdGUiOm51bGwsImpwZWciOnsidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWlzZVNjYW5zIjp0cnVlLCJxdWFudGlzYXRpb25UYWJsZSI6M319fQ==",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "116",
+            "type": "trails",
+            "attributes": {
+                "id": 116,
+                "name": "Log Jumper",
+                "latitude": "39.30146",
+                "longitude": "-105.17265",
+                "difficulty": "black",
+                "distance": "7.2",
+                "description": "Log Jumper is a 7 mile less popular black diamond doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 37 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:46:20.000Z",
+                "updated_at": "2023-02-02T18:46:20.000Z",
+                "start_elevation": "6,636 ft",
+                "avg_duration": "0:50:34",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276554_0_280x150.png",
+                "thumbnail_image": "https://www.offroadaussie.com/wp-content/uploads/2020/04/21968737591_4ce8c9a7e1_k-1024x707.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "117",
+            "type": "trails",
+            "attributes": {
+                "id": 117,
+                "name": "Gramps",
+                "latitude": "39.29294",
+                "longitude": "-105.09235",
+                "difficulty": "blue",
+                "distance": "2.7",
+                "description": "Gramps is a 3 mile less popular blue doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 16 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:47:29.000Z",
+                "updated_at": "2023-02-02T18:47:29.000Z",
+                "start_elevation": "8,478 ft",
+                "avg_duration": "0:16:56",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276545_0_500x200.png",
+                "thumbnail_image": "https://www.side.cr/wp-content/uploads/2022/05/beginner-off-road-trails-colorado.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "118",
+            "type": "trails",
+            "attributes": {
+                "id": 118,
+                "name": "Garber",
+                "latitude": "39.34055",
+                "longitude": "-105.08142",
+                "difficulty": "blue",
+                "distance": "2.7",
+                "description": "Garber is a 3 mile less popular blue doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 5 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:48:38.000Z",
+                "updated_at": "2023-02-02T18:48:38.000Z",
+                "start_elevation": "8,060 ft",
+                "avg_duration": "0:14:20",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276563_0_500x200.png",
+                "thumbnail_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276563_0_500x200.png",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "119",
+            "type": "trails",
+            "attributes": {
+                "id": 119,
+                "name": "Flatrock ",
+                "latitude": "39.31906",
+                "longitude": "-105.12264",
+                "difficulty": "blue",
+                "distance": "3.7",
+                "description": "Flatrock is a 4 mile less popular blue doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 17 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:49:47.000Z",
+                "updated_at": "2023-02-02T18:49:47.000Z",
+                "start_elevation": "8,053 ft",
+                "avg_duration": "0:17:05",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276542_0_500x200.png",
+                "thumbnail_image": "https://assets.trailsource.com/photos/ATV/720x405/img_0005.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "120",
+            "type": "trails",
+            "attributes": {
+                "id": 120,
+                "name": "Fern 3",
+                "latitude": "39.16706",
+                "longitude": "-105.04845",
+                "difficulty": "blue",
+                "distance": "3.2",
+                "description": "Fern 3 is a 3 mile less popular blue doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:50:56.000Z",
+                "updated_at": "2023-02-02T18:50:56.000Z",
+                "start_elevation": "8,311 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276562_0_500x200.png",
+                "thumbnail_image": "https://res.cloudinary.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_800/v1618510657/edit-store/ELlSwPgwYWLNrXRWA3KO7w%3D%3D.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "121",
+            "type": "trails",
+            "attributes": {
+                "id": 121,
+                "name": "Fern 2",
+                "latitude": "39.16742",
+                "longitude": "-105.06988",
+                "difficulty": "blue",
+                "distance": "2.1",
+                "description": "Fern 2 is a 2 mile less popular blue doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 5 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:52:05.000Z",
+                "updated_at": "2023-02-02T18:52:05.000Z",
+                "start_elevation": "8,051 ft",
+                "avg_duration": "0:05:12",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://i0.wp.com/travelinggypsyrn.com/wp-content/uploads/2018/11/odessa.jpg?resize=1140%2C758&ssl=1",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "122",
+            "type": "trails",
+            "attributes": {
+                "id": 122,
+                "name": "Fern 1",
+                "latitude": "39.16216",
+                "longitude": "-105.08403",
+                "difficulty": "black",
+                "distance": "1.5",
+                "description": "Fern 1 is a 2 mile less popular black diamond doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 5 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:53:14.000Z",
+                "updated_at": "2023-02-02T18:53:14.000Z",
+                "start_elevation": "7,923 ft",
+                "avg_duration": "0:05:20",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://dayhikesneardenver.b-cdn.net/wp-content/uploads/2016/05/unnamed-falls-fern-creek-trail-rmnp2.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "123",
+            "type": "trails",
+            "attributes": {
+                "id": 123,
+                "name": "Dutch Fred",
+                "latitude": "39.28638",
+                "longitude": "-105.09225",
+                "difficulty": "blue",
+                "distance": "4.4",
+                "description": "Dutch Fred is a 4 mile less popular blue doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:54:23.000Z",
+                "updated_at": "2023-02-02T18:54:23.000Z",
+                "start_elevation": "8,392 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276549_0_500x200.png",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/3600/highlights/1565930677382_resized_Trailsoffroad_2019-08-09%2013.55.09-1.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "124",
+            "type": "trails",
+            "attributes": {
+                "id": 124,
+                "name": "Cabin Ridge",
+                "latitude": "39.28188",
+                "longitude": "-105.1041",
+                "difficulty": "blue ",
+                "distance": "4.7",
+                "description": "Cabin Ridge is a 5 mile less popular blue singletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 45 minutes to complete this trail.",
+                "created_at": "2023-02-02T18:55:32.000Z",
+                "updated_at": "2023-02-02T18:55:32.000Z",
+                "start_elevation": "8,729 ft",
+                "avg_duration": "0:45:32",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276544_0_500x200.png",
+                "thumbnail_image": "https://www.coloradoinfo.com/sites/default/files/4x4-blog-imogene-pass.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "140",
+            "type": "trails",
+            "attributes": {
+                "id": 140,
+                "name": "Red Cone",
+                "latitude": "39.4842",
+                "longitude": "-105.80276",
+                "difficulty": "blue ",
+                "distance": "6.0",
+                "description": "Popular ATV route to Red Cone and loops down Handcart Gulch",
+                "created_at": "2023-02-02T19:13:56.000Z",
+                "updated_at": "2023-02-02T19:13:56.000Z",
+                "start_elevation": "9,995 ft",
+                "avg_duration": "2:13:45",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/248000/248945_0_500x200.png",
+                "thumbnail_image": "https://wildatv.com/wp-content/uploads/2020/09/Webster-Pass-Red-Cone.jpg",
+                "county_id": 23
+            }
+        },
+        {
+            "id": "125",
+            "type": "trails",
+            "attributes": {
+                "id": 125,
+                "name": "788",
+                "latitude": "39.3213",
+                "longitude": "-105.05601",
+                "difficulty": "blue",
+                "distance": "3.2",
+                "description": "788 is a 3 mile less popular blue doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:56:41.000Z",
+                "updated_at": "2023-02-02T18:56:41.000Z",
+                "start_elevation": "7,727 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276564_0_500x200.png",
+                "thumbnail_image": "https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvMTE2OTA2NTIvNjFmZGI0YjA4NzVkNWM4ZjM2YjM5ZDY0OWRmMGJkZTcuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJqcGVnIiwicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NTAwLCJmaXQiOiJpbnNpZGUifSwicm90YXRlIjpudWxsLCJqcGVnIjp7InRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pc2VTY2FucyI6dHJ1ZSwicXVhbnRpc2F0aW9uVGFibGUiOjN9fX0=",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "126",
+            "type": "trails",
+            "attributes": {
+                "id": 126,
+                "name": "662",
+                "latitude": "39.3378",
+                "longitude": "-105.07772",
+                "difficulty": "blue",
+                "distance": "2.7",
+                "description": "662 is a 3 mile less popular blue doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T18:57:50.000Z",
+                "updated_at": "2023-02-02T18:57:50.000Z",
+                "start_elevation": "7,979 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276564_0_500x200.png",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/7823/waypoints/2/1671472790656_resizedDSC00662.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "127",
+            "type": "trails",
+            "attributes": {
+                "id": 127,
+                "name": "South Salt Creek ",
+                "latitude": "38.97126",
+                "longitude": "-106.10016",
+                "difficulty": "green ",
+                "distance": "10.2",
+                "description": "South Salt Creek is a 10 mile less popular green doubletrack trail located near Buena Vista Colorado. This multi-use trail can be used both directions and has a moderate overall physical rating with a 102 ft blue climb.",
+                "created_at": "2023-02-02T18:58:59.000Z",
+                "updated_at": "2023-02-02T18:58:59.000Z",
+                "start_elevation": "11,502 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/639/highlights/1593997034554_resized_South%20Salt%20Creek%20Colorado-02727.jpg",
+                "county_id": 2
+            }
+        },
+        {
+            "id": "128",
+            "type": "trails",
+            "attributes": {
+                "id": 128,
+                "name": "Little Fourmile",
+                "latitude": "38.87755",
+                "longitude": "-106.11103",
+                "difficulty": "green",
+                "distance": "4.9",
+                "description": "Little Fourmile is a 5 mile less popular green doubletrack trail located near Buena Vista Colorado. This multi-use trail can be used both directions. On average it takes 27 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:00:08.000Z",
+                "updated_at": "2023-02-02T19:00:08.000Z",
+                "start_elevation": "8,530 ft",
+                "avg_duration": "0:27:39",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://www.4x4explore.com/rds/l_rds/little_fourmile_a.jpg",
+                "county_id": 2
+            }
+        },
+        {
+            "id": "129",
+            "type": "trails",
+            "attributes": {
+                "id": 129,
+                "name": "Lenhardy Cutoff",
+                "latitude": "38.8818",
+                "longitude": "-105.99679",
+                "difficulty": "green",
+                "distance": "10.0",
+                "description": "Lenhardy Cutoff is a 10 mile less popular green singletrack trail located near Buena Vista Colorado. This atv/orv/ohv primary trail can be used both directions and has a hard overall physical rating with a 892 ft blue climb. On average it takes 1 hour34 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:01:17.000Z",
+                "updated_at": "2023-02-02T19:01:17.000Z",
+                "start_elevation": "9,155 ft",
+                "avg_duration": "1:34:30",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/247000/247884_1_500x200.png",
+                "thumbnail_image": "https://www.4x4explore.com/rds/l_rds/lenhardy_cutoff_a.jpg",
+                "county_id": 2
+            }
+        },
+        {
+            "id": "130",
+            "type": "trails",
+            "attributes": {
+                "id": 130,
+                "name": "Fourmile Cutoff",
+                "latitude": "38.88779",
+                "longitude": "-106.11075",
+                "difficulty": "green ",
+                "distance": "1.5",
+                "description": "Fourmile Cutoff is a 2 mile less popular green doubletrack trail located near Buena Vista Colorado. This multi-use trail can be used both directions. On average it takes 14 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:02:26.000Z",
+                "updated_at": "2023-02-02T19:02:26.000Z",
+                "start_elevation": "8,500 ft",
+                "avg_duration": "0:14:07",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://www.codot.gov/travel/colorado-byways/south-central/gold-belt/photo-tour/dome-rock/@@images/image",
+                "county_id": 2
+            }
+        },
+        {
+            "id": "131",
+            "type": "trails",
+            "attributes": {
+                "id": 131,
+                "name": "Fourmile Creek",
+                "latitude": "38.87438",
+                "longitude": "-106.1446",
+                "difficulty": "green ",
+                "distance": "7.7",
+                "description": "Gravel road that is used to ride up (or shuttle) to the top of Vitamin B. This road is also part of the Four Mile North RZR Loop and provides access to Buffalo Peak Wilderness",
+                "created_at": "2023-02-02T19:03:35.000Z",
+                "updated_at": "2023-02-02T19:03:35.000Z",
+                "start_elevation": "8,091 ft",
+                "avg_duration": "0:47:56",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/247000/247765_1_280x150.png",
+                "thumbnail_image": "https://www.codot.gov/travel/colorado-byways/south-central/gold-belt/photo-tour/dome-rock/@@images/image",
+                "county_id": 2
+            }
+        },
+        {
+            "id": "132",
+            "type": "trails",
+            "attributes": {
+                "id": 132,
+                "name": "Chubb park road",
+                "latitude": "38.85803",
+                "longitude": "-105.98618",
+                "difficulty": "green",
+                "distance": "6.8",
+                "description": "Chubb Park Road is a 7 mile less popular green doubletrack trail located near Buena Vista Colorado. This multi-use trail can be used both directions and has a moderate overall physical rating with a 711 ft green climb.",
+                "created_at": "2023-02-02T19:04:44.000Z",
+                "updated_at": "2023-02-02T19:04:44.000Z",
+                "start_elevation": "9,020 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/247000/247911_0_500x200.png",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/3977/highlights/1588130063147_resized_Woolsey%20Peak%20and%20Signal%20Mountain%20a-02700.jpg",
+                "county_id": 2
+            }
+        },
+        {
+            "id": "133",
+            "type": "trails",
+            "attributes": {
+                "id": 133,
+                "name": "1414",
+                "latitude": "38.88937",
+                "longitude": "-106.09587",
+                "difficulty": "blue",
+                "distance": "2.2",
+                "description": "1414 is a 2 mile less popular blue doubletrack trail located near Buena Vista Colorado. This atv/orv/ohv primary trail can be used both directions and has a moderate overall physical rating with a 562 ft blue climb. On average it takes 28 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:05:53.000Z",
+                "updated_at": "2023-02-02T19:05:53.000Z",
+                "start_elevation": "8,781 ft",
+                "avg_duration": "0:28:07",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://images.singletracks.com/blog/wp-content/uploads/2016/10/2016_10_13_0143_-orig.jpg",
+                "county_id": 2
+            }
+        },
+        {
+            "id": "134",
+            "type": "trails",
+            "attributes": {
+                "id": 134,
+                "name": "Pony Park",
+                "latitude": "38.98551",
+                "longitude": "-105.95912",
+                "difficulty": "green",
+                "distance": "7.5",
+                "description": "Pony Park is a 8 mile less popular green dirt/gravel road trail located near Buena Vista Colorado. This atv/orv/ohv primary trail can be used both directions and has a moderate overall physical rating with a 1,351 ft green climb.",
+                "created_at": "2023-02-02T19:07:02.000Z",
+                "updated_at": "2023-02-02T19:07:02.000Z",
+                "start_elevation": "9,000 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/247000/247869_0_500x200.png",
+                "thumbnail_image": "https://www.estesparkatvrentals.com/wp-content/uploads/2019/03/pole-hill-pic-for-map-page.jpeg",
+                "county_id": 2
+            }
+        },
+        {
+            "id": "135",
+            "type": "trails",
+            "attributes": {
+                "id": 135,
+                "name": "Buffalo Peaks ",
+                "latitude": "39.03799",
+                "longitude": "-105.97442",
+                "difficulty": "green",
+                "distance": "8.9",
+                "description": "Buffalo Peaks is a 9 mile less popular green doubletrack trail located near Buena Vista Colorado. This atv/orv/ohv primary trail can be used both directions and has a moderate overall physical rating with a 1,536 ft green climb.",
+                "created_at": "2023-02-02T19:08:11.000Z",
+                "updated_at": "2023-02-02T19:08:11.000Z",
+                "start_elevation": "9,141 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/247000/247870_0_500x200.png",
+                "thumbnail_image": "https://winapps.umt.edu/winapps/media2/wilderness/images/NWPS/lib/thumbID250/4908.jpg",
+                "county_id": 2
+            }
+        },
+        {
+            "id": "136",
+            "type": "trails",
+            "attributes": {
+                "id": 136,
+                "name": "Barr",
+                "latitude": "39.32724",
+                "longitude": "-105.08692",
+                "difficulty": "blue ",
+                "distance": "3.6",
+                "description": "Barr is a 4 mile less popular blue doubletrack trail located near Roxborough Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 14 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:09:20.000Z",
+                "updated_at": "2023-02-02T19:09:20.000Z",
+                "start_elevation": "8,242 ft",
+                "avg_duration": "0:14:59",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/276000/276541_0_500x200.png",
+                "thumbnail_image": "https://www.uncovercolorado.com/wp-content/uploads/2018/04/barr-trail-colorado-forest-view-1440x960.jpg",
+                "county_id": 3
+            }
+        },
+        {
+            "id": "137",
+            "type": "trails",
+            "attributes": {
+                "id": 137,
+                "name": "Jack Creek ",
+                "latitude": "40.38666",
+                "longitude": "-105.9659",
+                "difficulty": "green ",
+                "distance": "4.5",
+                "description": "Jack Creek is a 5 mile less popular green dirt/gravel road trail located near Roosevelt National Forest Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T19:10:29.000Z",
+                "updated_at": "2023-02-02T19:10:29.000Z",
+                "start_elevation": "10,510 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/492000/492235_0_500x200.png",
+                "thumbnail_image": "https://traildamage.com/wp-content/gallery/jack-creek-180616/P1010659.jpg",
+                "county_id": 22
+            }
+        },
+        {
+            "id": "138",
+            "type": "trails",
+            "attributes": {
+                "id": 138,
+                "name": "Illinois Pass ",
+                "latitude": "40.36625",
+                "longitude": "-106.01726",
+                "difficulty": "blue",
+                "distance": "1.9",
+                "description": "Illinois Pass is a 2 mile popular blue doubletrack trail located near Roosevelt National Forest Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T19:11:38.000Z",
+                "updated_at": "2023-02-02T19:11:38.000Z",
+                "start_elevation": "9,913 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://cdp.azureedge.net/products/USA/PO/2023/UTILVEH/USXS/GENERAL_XP_1000_PREMIUM/49/AVALANCHE_GRAY/2000000005_480px.jpg",
+                "county_id": 22
+            }
+        },
+        {
+            "id": "139",
+            "type": "trails",
+            "attributes": {
+                "id": 139,
+                "name": "Saints John Road",
+                "latitude": "39.52089",
+                "longitude": "-105.86894",
+                "difficulty": "black",
+                "distance": "7.2",
+                "description": "Saints John Road is a 7 mile less popular black diamond singletrack trail located near Montezuma Colorado. This multi-use trail can be used both directions. On average it takes 1 hour and 22 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:12:47.000Z",
+                "updated_at": "2023-02-02T19:12:47.000Z",
+                "start_elevation": "12,446 ft",
+                "avg_duration": "1:22:25",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/248000/248879_3_500x200.png",
+                "thumbnail_image": "https://funtreks.com/wp-content/uploads/2017/07/IMG_2051.jpg",
+                "county_id": 23
+            }
+        },
+        {
+            "id": "141",
+            "type": "trails",
+            "attributes": {
+                "id": 141,
+                "name": "North Fork Swan Road",
+                "latitude": "39.51653",
+                "longitude": "-105.93483",
+                "difficulty": "blue",
+                "distance": "3.5",
+                "description": "North Fork Swan Road is a 4 mile less popular blue doubletrack trail located near Breckenridge Colorado. This multi-use trail can be used both directions and has a moderate overall physical rating with a 1,515 ft black diamond climb. On average it takes 14 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:15:05.000Z",
+                "updated_at": "2023-02-02T19:15:05.000Z",
+                "start_elevation": "10,001 ft",
+                "avg_duration": "0:14:45",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/248000/248876_2_500x200.png",
+                "thumbnail_image": "https://funtreks.com/wp-content/uploads/2017/07/IMG_1813.jpg",
+                "county_id": 23
+            }
+        },
+        {
+            "id": "142",
+            "type": "trails",
+            "attributes": {
+                "id": 142,
+                "name": "Middle Fork of the Swan 2",
+                "latitude": "39.51343",
+                "longitude": "-105.86247",
+                "difficulty": "blue",
+                "distance": "4.3",
+                "description": "Middle Fork of the Swan is a 4 mile less popular blue doubletrack trail located near Breckenridge Colorado. This multi-use trail can be used both directions. On average it takes 20 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:16:14.000Z",
+                "updated_at": "2023-02-02T19:16:14.000Z",
+                "start_elevation": "12,480 ft",
+                "avg_duration": "0:20:41",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/248000/248911_2_500x200.png",
+                "thumbnail_image": "https://res.cloudinary.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_800/v1620767872/edit-store/0%2BnEF8hcgS0qzGVc6eHDuw%3D%3D.jpg",
+                "county_id": 23
+            }
+        },
+        {
+            "id": "143",
+            "type": "trails",
+            "attributes": {
+                "id": 143,
+                "name": "Middle Fork of the Swan 1",
+                "latitude": "39.49779",
+                "longitude": "-105.92578",
+                "difficulty": "green",
+                "distance": "1.9",
+                "description": "Middle Fork of the Swan is a 2 mile less popular green dirt/gravel road trail located near Breckenridge Colorado. This multi-use trail can be used both directions. On average it takes 6 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:17:23.000Z",
+                "updated_at": "2023-02-02T19:17:23.000Z",
+                "start_elevation": "10,179 ft",
+                "avg_duration": "0:06:29",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/12000/12811_2_500x200.png",
+                "thumbnail_image": "https://res.cloudinary.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_800/v1620767872/edit-store/0%2BnEF8hcgS0qzGVc6eHDuw%3D%3D.jpg",
+                "county_id": 23
+            }
+        },
+        {
+            "id": "144",
+            "type": "trails",
+            "attributes": {
+                "id": 144,
+                "name": "Keystone Gulch Rd (Lower)",
+                "latitude": "39.60085",
+                "longitude": "-105.97615",
+                "difficulty": "green ",
+                "distance": "2.5",
+                "description": "Easy dirt road to base of keystone back lifts",
+                "created_at": "2023-02-02T19:18:32.000Z",
+                "updated_at": "2023-02-02T19:18:32.000Z",
+                "start_elevation": "9,257 ft",
+                "avg_duration": "0:33:01",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://funtreks.com/wp-content/uploads/2017/09/tg-easy-co-keystone-gulch-01.jpg",
+                "county_id": 23
+            }
+        },
+        {
+            "id": "145",
+            "type": "trails",
+            "attributes": {
+                "id": 145,
+                "name": "Handcart Gulch",
+                "latitude": "39.53127",
+                "longitude": "-105.83262",
+                "difficulty": "blue",
+                "distance": "5.0",
+                "description": "Handcart Gulch is a 5 mile blue doubletrack trail located near Park County Colorado. This atv/orv/ohv primary trail can be used both directions and has a hard overall physical rating with a 0 ft blue climb. On average it takes 49 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:19:41.000Z",
+                "updated_at": "2023-02-02T19:19:41.000Z",
+                "start_elevation": "12,095 ft",
+                "avg_duration": "0:49:50",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/248000/248947_0_500x200.png",
+                "thumbnail_image": "https://adventr.co/wp-content/uploads/2014/12/IMG_5920.jpg",
+                "county_id": 23
+            }
+        },
+        {
+            "id": "146",
+            "type": "trails",
+            "attributes": {
+                "id": 146,
+                "name": "Garibaldi Gulch Road",
+                "latitude": "39.52297",
+                "longitude": "-105.88201",
+                "difficulty": "blue",
+                "distance": "3.0",
+                "description": "Garibaldi Gulch Road is a 3 mile less popular blue doubletrack trail located near Breckenridge Colorado. This multi-use trail can be used both directions and has a hard overall physical rating with a 129 ft blue climb. On average it takes 2 hours57 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:20:50.000Z",
+                "updated_at": "2023-02-02T19:20:50.000Z",
+                "start_elevation": "12,516 ft",
+                "avg_duration": "2:57:28",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/248000/248877_1_500x200.png",
+                "thumbnail_image": "https://www.4x4explore.com/rds/g_rds/garibaldi_glch_c.jpg",
+                "county_id": 23
+            }
+        },
+        {
+            "id": "147",
+            "type": "trails",
+            "attributes": {
+                "id": 147,
+                "name": "Woods Lake Road",
+                "latitude": "39.41463",
+                "longitude": "-106.65949",
+                "difficulty": "green",
+                "distance": "2.4",
+                "description": "Woods Lake Road is a 2 mile less popular green dirt/gravel road trail located near Avon Colorado. This atv/orv/ohv primary trail can be used both directions and has a easy overall physical rating with a 314 ft green climb.",
+                "created_at": "2023-02-02T19:21:59.000Z",
+                "updated_at": "2023-02-02T19:21:59.000Z",
+                "start_elevation": "9,288 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/213000/213214_1_500x200.png",
+                "thumbnail_image": "https://images-prod.trailsoffroad.com/trails/3771/highlights/1567616047831_resized_LRM_EXPORT_20190831_232031.jpg",
+                "county_id": 21
+            }
+        },
+        {
+            "id": "148",
+            "type": "trails",
+            "attributes": {
+                "id": 148,
+                "name": "Old Highway",
+                "latitude": "39.39641",
+                "longitude": "-106.31786",
+                "difficulty": "green",
+                "distance": "3.0",
+                "description": "Old Highway is a 3 mile less popular green singletrack trail located near Leadville Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T19:23:08.000Z",
+                "updated_at": "2023-02-02T19:23:08.000Z",
+                "start_elevation": "9,841 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://trail4runner.com/wp-content/uploads/2022/01/Brenan_4Runner_Black_Bear_Pass_2021-52-1024x682.jpg",
+                "county_id": 13
+            }
+        },
+        {
+            "id": "149",
+            "type": "trails",
+            "attributes": {
+                "id": 149,
+                "name": "Burnt Mountain Road",
+                "latitude": "39.344055",
+                "longitude": "-106.62176",
+                "difficulty": "green ",
+                "distance": "9.3",
+                "description": "Burnt Mountain Road is a 9 mile less popular green singletrack trail located near Leadville Colorado. This atv/orv/ohv primary trail can be used both directions and has a easy overall physical rating with a 2,123 ft green climb. On average it takes 1 hour7 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:24:17.000Z",
+                "updated_at": "2023-02-02T19:24:17.000Z",
+                "start_elevation": "8,822 ft",
+                "avg_duration": "1:07:18",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/213000/213215_0_280x150.png",
+                "thumbnail_image": "https://www.4x4explore.com/rds/b_rds/burnt_mtn_d.jpg",
+                "county_id": 13
+            }
+        },
+        {
+            "id": "150",
+            "type": "trails",
+            "attributes": {
+                "id": 150,
+                "name": "Nolan Creek",
+                "latitude": "39.52197",
+                "longitude": "-106.630407",
+                "difficulty": "green ",
+                "distance": "9.2",
+                "description": "Nolan Creek is a 9 mile less popular green dirt/gravel road trail located near Edwards Colorado. This multi-use trail can be used both directions and has a easy overall physical rating with a 189 ft green climb. On average it takes 54 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:25:26.000Z",
+                "updated_at": "2023-02-02T19:25:26.000Z",
+                "start_elevation": "11,205 ft",
+                "avg_duration": "0:54:49",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/249000/249443_0_500x200.png",
+                "thumbnail_image": "https://www.outdoorproject.com/sites/default/files/styles/hero_image_desktop_2x/public/features/dpl_9042.jpg?itok=slQl8bp4",
+                "county_id": 21
+            }
+        },
+        {
+            "id": "151",
+            "type": "trails",
+            "attributes": {
+                "id": 151,
+                "name": "Road Gulch ",
+                "latitude": "39.637017",
+                "longitude": "-106.784022",
+                "difficulty": "black",
+                "distance": "3.7",
+                "description": "Use Road Gulch to connect Dirt Surfer's Love Child to Haymaker or to climb up to Bellyache Rd.",
+                "created_at": "2023-02-02T19:26:35.000Z",
+                "updated_at": "2023-02-02T19:26:35.000Z",
+                "start_elevation": "6,920 ft",
+                "avg_duration": "0:26:29",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/239000/239923_2_500x200.png",
+                "thumbnail_image": "https://res.cloudinary.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_800/v1620770820/edit-store/1YqyVpOmE1BXWcCuc2u%2BPQ%3D%3D.jpg",
+                "county_id": 21
+            }
+        },
+        {
+            "id": "152",
+            "type": "trails",
+            "attributes": {
+                "id": 152,
+                "name": "Grizzley Creek (Rabbit Ears Peak)",
+                "latitude": "40.403606",
+                "longitude": "-106.619167",
+                "difficulty": "black",
+                "distance": "2.5",
+                "description": "Grizzley Creek (Rabbit Ears Peak) is a 3 mile less popular black diamond doubletrack trail located near Steamboat Springs Colorado. This multi-use trail can be used both directions. On average it takes 32 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:27:44.000Z",
+                "updated_at": "2023-02-02T19:27:44.000Z",
+                "start_elevation": "9,595 ft",
+                "avg_duration": "0:32:32",
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://liveandlethike.files.wordpress.com/2018/12/DSC03680.jpg",
+                "county_id": 24
+            }
+        },
+        {
+            "id": "153",
+            "type": "trails",
+            "attributes": {
+                "id": 153,
+                "name": "Percy Lake ",
+                "latitude": "40.470892",
+                "longitude": "-106.619441",
+                "difficulty": "blue ",
+                "distance": "3.2",
+                "description": "Percy Lake is a 3 mile less popular blue doubletrack trail located near Steamboat Springs Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T19:28:53.000Z",
+                "updated_at": "2023-02-02T19:28:53.000Z",
+                "start_elevation": "9,031 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/491000/491968_0_500x200.png",
+                "thumbnail_image": "https://www.lpl.arizona.edu/~mclean/0catch/colorado/percy.jpg",
+                "county_id": 24
+            }
+        },
+        {
+            "id": "154",
+            "type": "trails",
+            "attributes": {
+                "id": 154,
+                "name": "CDT - Wyoming Trail",
+                "latitude": "40.544498",
+                "longitude": "-106.684877",
+                "difficulty": "green ",
+                "distance": "7.2",
+                "description": "CDT - Wyoming Trail is a 7 mile less popular green doubletrack trail located near Steamboat Springs Colorado. This multi-use trail can be used both directions. On average it takes 1 hour11 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:30:02.000Z",
+                "updated_at": "2023-02-02T19:30:02.000Z",
+                "start_elevation": "10,297 ft",
+                "avg_duration": "1:11:19",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/27000/27801_3_500x200.png",
+                "thumbnail_image": "https://www.trailsource.com/img/photo/HIKE-continental-divide-trail-maps.jpg",
+                "county_id": 24
+            }
+        },
+        {
+            "id": "155",
+            "type": "trails",
+            "attributes": {
+                "id": 155,
+                "name": "CDT - Arapahoe Divide",
+                "latitude": "40.330912",
+                "longitude": "-106.313346",
+                "difficulty": "blue",
+                "distance": "7.7",
+                "description": "CDT - Arapaho Divide is a 8 mile less popular blue doubletrack trail located near Kremmling Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T19:31:11.000Z",
+                "updated_at": "2023-02-02T19:31:11.000Z",
+                "start_elevation": "11,454 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/492000/492148_1_500x200.png",
+                "thumbnail_image": "https://gailmuller.com/wp-content/uploads/2021/06/shutterstock_377693842-1-1024x683.jpg",
+                "county_id": 22
+            }
+        },
+        {
+            "id": "156",
+            "type": "trails",
+            "attributes": {
+                "id": 156,
+                "name": "Loch Lomond ",
+                "latitude": "39.81314",
+                "longitude": "-105.656035",
+                "difficulty": "green",
+                "distance": "2.3",
+                "description": "Loch Lomond is a 2 mile green dirt/gravel road trail located near Georgetown Colorado. This multi-use trail can be used both directions. On average it takes 8 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:32:20.000Z",
+                "updated_at": "2023-02-02T19:32:20.000Z",
+                "start_elevation": "10,361 ft",
+                "avg_duration": "0:08:56",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/492000/492372_0_500x200.png",
+                "thumbnail_image": "https://images.theoutbound.com/uploads/1410847757714/lbvyr1ay7ff/7f07675497512b0ad2d84686c0d810d9?w=1200&h=630&fit=crop&dpr=1&q=60&s=74c9e9179e3b24ac039c9c9b5727129b",
+                "county_id": 25
+            }
+        },
+        {
+            "id": "157",
+            "type": "trails",
+            "attributes": {
+                "id": 157,
+                "name": "Jones Pass Road",
+                "latitude": "39.760768",
+                "longitude": "-105.905965",
+                "difficulty": "green",
+                "distance": "6.9",
+                "description": "Flat mostly graded road. Good altitude but totally able to drive most any car to the saddle.",
+                "created_at": "2023-02-02T19:33:29.000Z",
+                "updated_at": "2023-02-02T19:33:29.000Z",
+                "start_elevation": "10,425 ft",
+                "avg_duration": "1:48:34",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/56000/56977_5_500x200.png",
+                "thumbnail_image": "https://www.uncovercolorado.com/wp-content/uploads/2020/07/Sunset-Hike-at-Jones-Pass-Colorado-2.jpg",
+                "county_id": 23
+            }
+        },
+        {
+            "id": "158",
+            "type": "trails",
+            "attributes": {
+                "id": 158,
+                "name": "Elk Creek loop",
+                "latitude": "39.887708",
+                "longitude": "-105.839009",
+                "difficulty": "blue",
+                "distance": "5.8",
+                "description": "Elk Creek Loop is a 6 mile less popular blue doubletrack trail located near Fraser Colorado. This multi-use trail can be used both directions with a 1,141 ft black diamond climb. On average it takes 55 minutes to complete this trail.",
+                "created_at": "2023-02-02T19:34:38.000Z",
+                "updated_at": "2023-02-02T19:34:38.000Z",
+                "start_elevation": "9,727 ft",
+                "avg_duration": "0:55:40",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/35000/35042_2_280x150.png",
+                "thumbnail_image": "https://hikingproject.com/assets/photos/hike/7083818_smallMed_1655866758.jpg?cache=1674259500",
+                "county_id": 22
+            }
+        },
+        {
+            "id": "159",
+            "type": "trails",
+            "attributes": {
+                "id": 159,
+                "name": "Bears Ears",
+                "latitude": "40.810377",
+                "longitude": "-107.131574",
+                "difficulty": "blue",
+                "distance": "11.7",
+                "description": "Bears Ears is a 12 mile less popular blue singletrack trail located near Clark Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T19:35:47.000Z",
+                "updated_at": "2023-02-02T19:35:47.000Z",
+                "start_elevation": "8,581 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://sp-images.summitpost.org/654907.JPG?auto=format&fit=max&ixlib=php-2.1.1&q=35&w=500&s=1d0f9a6bba917b6170274d5976892163",
+                "county_id": 24
+            }
+        },
+        {
+            "id": "160",
+            "type": "trails",
+            "attributes": {
+                "id": 160,
+                "name": "CDT - Chimney Rock",
+                "latitude": "40.346762",
+                "longitude": "-106.410345",
+                "difficulty": "green",
+                "distance": "9.4",
+                "description": "CDT - Chimney Rock is a 9 mile less popular green singletrack trail located near Steamboat Springs Colorado. This multi-use trail can be used both directions.",
+                "created_at": "2023-02-02T19:36:56.000Z",
+                "updated_at": "2023-02-02T19:36:56.000Z",
+                "start_elevation": "10,012 ft",
+                "avg_duration": null,
+                "map_image": "https://trails.hikeitbaby.com/wp-content/uploads/sites/5/2019/01/Image-from-iOS-6-800x600.jpg",
+                "thumbnail_image": "https://media.npr.org/assets/img/2012/09/21/chimney-rock-09667910808c65ec730c98b91b6858fb7a21181e.jpg",
+                "county_id": 24
+            }
+        },
+        {
+            "id": "161",
+            "type": "trails",
+            "attributes": {
+                "id": 161,
+                "name": "Grace Creek",
+                "latitude": "40.899676",
+                "longitude": "-106.088896",
+                "difficulty": "blue",
+                "distance": "3.7",
+                "description": "Narrow doubletrack ATV trail follows Grace Creek to Medicine Bow Trail. Consistent climb with moderate grades and a few steeper sections makes for a good climb and fast descent. Dirt w/ loose rock sections. Very popular hunting area in the fall.",
+                "created_at": "2023-02-02T19:38:05.000Z",
+                "updated_at": "2023-02-02T19:38:05.000Z",
+                "start_elevation": "9,319 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/302000/302970_2_500x200.png",
+                "thumbnail_image": "https://www.coloradoinfo.com/sites/default/files/styles/open_graph_image/public/gallery/4x4-blog.jpg?itok=Er01-d0g",
+                "county_id": 26
+            }
+        },
+        {
+            "id": "162",
+            "type": "trails",
+            "attributes": {
+                "id": 162,
+                "name": "Brush Creek (Pearl Pass) ",
+                "latitude": "38.895772",
+                "longitude": "-106.889384",
+                "difficulty": "blue",
+                "distance": "16.2",
+                "description": "This is a rocky and steep road from both directions. But, it is scenic, and even though it is double track, riding it is still pretty fun, and the shear distance and gradient make it challenging, not to mention the loose rocks.",
+                "created_at": "2023-02-02T19:39:14.000Z",
+                "updated_at": "2023-02-02T19:39:14.000Z",
+                "start_elevation": "9,169 ft",
+                "avg_duration": "13:47:04",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/33000/33595_1_500x200.png",
+                "thumbnail_image": "https://res.cloudinary.com/rc-daily-onxmaps/image/upload/q_auto,f_auto,w_800/v1620768635/edit-store/1xLCEaSmOy0Of90vew6gdw%3D%3D.jpg",
+                "county_id": 9
+            }
+        },
+        {
+            "id": "163",
+            "type": "trails",
+            "attributes": {
+                "id": 163,
+                "name": "Jenny Creek Trail ",
+                "latitude": "39.929561",
+                "longitude": "-105.624647",
+                "difficulty": "black",
+                "distance": "2.2",
+                "description": "Jenny Creek Trail is a lesser-used trail that goes from Yankee Doodle Lake Eldora Ski area. In it motorized 2 track and in summer is an out-and-back from Rollins pass road or Jenny Creek Road with no summer access through Eldora.",
+                "created_at": "2023-02-02T19:40:23.000Z",
+                "updated_at": "2023-02-02T19:40:23.000Z",
+                "start_elevation": "10,732 ft",
+                "avg_duration": "0:25:11",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/563000/563447_3_500x200.png",
+                "thumbnail_image": "https://adventr.co/wp-content/uploads/2015/01/DSC03243.jpg",
+                "county_id": 27
+            }
+        },
+        {
+            "id": "164",
+            "type": "trails",
+            "attributes": {
+                "id": 164,
+                "name": "Jenny Creek Road ",
+                "latitude": "39.928003",
+                "longitude": "-105.592149",
+                "difficulty": "black",
+                "distance": "2.6",
+                "description": "Motorized road connecting Eldora to Moffat Road.",
+                "created_at": "2023-02-02T19:41:32.000Z",
+                "updated_at": "2023-02-02T19:41:32.000Z",
+                "start_elevation": "9,353 ft",
+                "avg_duration": "0:18:13",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/563000/563444_2_500x200.png",
+                "thumbnail_image": "https://adventr.co/wp-content/uploads/2015/01/DSC03243.jpg",
+                "county_id": 27
+            }
+        }
+    ]
+}

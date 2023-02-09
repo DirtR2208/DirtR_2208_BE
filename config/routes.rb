@@ -9,7 +9,7 @@ Rails.application.routes.draw do
       get "/user", to: "users#show"
       post "/user-trails", to: "user_trails#create"
       get "/trail", to: "trails#show"
-      
+      get '/trails', to: "trails#index"
     end
   end
 end
