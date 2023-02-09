@@ -115,8 +115,11 @@ GEM
     nio4r (2.5.8)
     nokogiri (1.14.1)
       mini_portile2 (~> 2.8.0)
+<<<<<<< HEAD
       racc (~> 1.4)
     nokogiri (1.14.1-x86_64-darwin)
+=======
+>>>>>>> main
       racc (~> 1.4)
     orderly (0.1.1)
       capybara (>= 1.1)
@@ -220,7 +223,10 @@ GEM
 
 PLATFORMS
   ruby
+<<<<<<< HEAD
   x86_64-darwin-21
+=======
+>>>>>>> main
 
 DEPENDENCIES
   bootsnap (>= 1.1.0)
@@ -248,4 +254,5 @@ RUBY VERSION
    ruby 2.7.4p191
 
 BUNDLED WITH
+
    2.1.4
