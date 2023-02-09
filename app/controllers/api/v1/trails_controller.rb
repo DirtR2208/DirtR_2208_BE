@@ -1,5 +1,10 @@
 class Api::V1::TrailsController < ApplicationController
 
+  def index
+    trails = Trail.all
+    render json: TrailsSerializer.new(trails)
+  end
+
   def show
   id = params[:id]
     if id.present?
