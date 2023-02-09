@@ -41,10 +41,10 @@ RSpec.describe 'POST /user-trails' do
       expect(response.status).to eq(200)
       
       parsed = JSON.parse(response.body, symbolize_names: true)
-      
+            
       expect(parsed).to be_a(Hash)
       expect(parsed).to have_key(:success)
-      expect(parsed[:success]).to eq("Trail Added Successfully.")
+      expect(parsed[:success]).to eq("Trail Added Successfully")
 
       expect(shawn.trails.count).to eq(1)
     end
@@ -80,16 +80,13 @@ RSpec.describe 'POST /user-trails' do
       post '/api/v1/user-trails', headers: headers, params: JSON.generate(body)
       
       expect(response).to be_successful
-      # require 'pry'; binding.pry
-      # expect(response.status).to eq(201)
-      
-      # parsed = JSON.parse(response.body, symbolize_names: true)
-      
-      # expect(parsed).to be_a(Hash)
-      # expect(parsed).to have_key(:success)
-      # expect(parsed[:success]).to eq("Trail Added Successfully.")
+      expect(response.status).to eq(200)
 
-
+      parsed = JSON.parse(response.body, symbolize_names: true)
+      
+      expect(parsed).to be_a(Hash)
+      expect(parsed).to have_key(:error)
+      expect(parsed[:error]).to eq("No User Found")
     end
   end
 end
