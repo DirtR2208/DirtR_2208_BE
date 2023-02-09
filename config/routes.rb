@@ -5,11 +5,6 @@ Rails.application.routes.draw do
     namespace :v1 do
       get "/counties", to: "counties#index"
       get "/county", to: "counties#show"
-      get "/users", to: "users#index"
-      get "/user", to: "users#show"
-      post "/user-trails", to: "user_trails#create"
-      get "/user-trails", to: "user_trails#index"
-      
     end
   end
 end
