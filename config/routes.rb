@@ -6,6 +6,7 @@ Rails.application.routes.draw do
       get "/counties", to: "counties#index"
       get "/county", to: "counties#show"
       get "/trail", to: "trails#show"
+      get '/trails', to: "trails#index"
     end
   end
 end
