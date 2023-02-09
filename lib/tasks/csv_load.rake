@@ -1,7 +1,7 @@
 require 'csv'
 
 namespace :csv_load do
-  task all: %i[counties trails]
+  task all: %i[counties trails users]
 
   task counties: :environment do
     CSV.foreach('./db/data/counties.csv', headers: true) do |row|
@@ -15,5 +15,12 @@ namespace :csv_load do
       Trail.find_or_create_by(row.to_hash)
     end
     ActiveRecord::Base.connection.reset_pk_sequence!('trails')
+  end
+
+  task users: :environment do
+    CSV.foreach('./db/data/users.csv', headers: true) do |row|
+      User.find_or_create_by(row.to_hash)
+    end
+    ActiveRecord::Base.connection.reset_pk_sequence!('users')
   end
 end

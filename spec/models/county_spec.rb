@@ -11,7 +11,7 @@ RSpec.describe County, type: :model do
 
   describe "Class Methods" do
     before :each do
-      @boulder = County.create!( name: "Boulder County")
+      @boulder = County.create!(name: "Boulder County")
     end
 
     describe "#find_by_name" do
