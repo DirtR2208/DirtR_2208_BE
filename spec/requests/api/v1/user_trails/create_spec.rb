@@ -33,14 +33,20 @@ RSpec.describe 'POST /user-trails' do
         "trail_id": 163
       } )
 
-      # stub_request(:post, "http://localhost:3000/api/v1/user-trails").to_return(status: 201, body: "Trail Added Successfully")
+      expect(shawn.trails.count).to eq(0)
 
       post '/api/v1/user-trails', headers: headers, params: JSON.generate(body)
-      # require 'pry'; binding.pry
+      
       expect(response).to be_successful
+      expect(response.status).to eq(201)
+      
       parsed = JSON.parse(response.body, symbolize_names: true)
-      expect(parsed).to eq({ "success": "Trail Added Successfully." })
+      
+      expect(parsed).to be_a(Hash)
+      expect(parsed).to have_key(:success)
+      expect(parsed[:success]).to eq("Trail Added Successfully.")
 
+      expect(shawn.trails.count).to eq(1)
     end
   end
 end
