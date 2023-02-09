@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": "33",
+            "type": "trail",
+            "attributes": {
+                "id": 33,
+                "name": "Parallel Trail",
+                "latitude": "38.322601",
+                "longitude": "-108.175688",
+                "difficulty": "green",
+                "distance": "4.8",
+                "description": "ATV Trail mostly but open for all uses",
+                "created_at": "2023-02-02T17:10:53.000Z",
+                "updated_at": "2023-02-02T17:10:53.000Z",
+                "start_elevation": "9,819 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/84000/84235_3_500x200.png",
+                "thumbnail_image": "https://3.bp.blogspot.com/-0wn-9Y4t2ls/U26W2KWBHJI/AAAAAAAAX7Y/vVMPKZKC7nU/s1600/Rabbit+Valley+%232+034.JPG",
+                "county_id": 9
+            }
+        }
+    ]
+}
