@@ -17,4 +17,15 @@ RSpec.describe Trail, type: :model do
     it { should validate_presence_of :map_image }
     it { should validate_presence_of :thumbnail_image }
   end
+
+  describe "#find_by_id" do
+    it "finds the county that matches a id arg" do
+      county = County.create!(name: "test")
+      trail = Trail.create!(name: "test_1", latitude: "1", longitude: "1", difficulty: "b", distance: "1", description: "....", start_elevation: "1234", avg_duration: "1", map_image: "https", thumbnail_image: "https1", county_id: county.id )
+      trail_2 = Trail.create!(name: "test_2", latitude: "1", longitude: "1", difficulty: "b", distance: "1", description: "....", start_elevation: "1234", avg_duration: "1", map_image: "https", thumbnail_image: "https1", county_id: county.id )
+      trail_3 = Trail.create!(name: "test_3", latitude: "1", longitude: "1", difficulty: "b", distance: "1", description: "....", start_elevation: "1234", avg_duration: "1", map_image: "https", thumbnail_image: "https1", county_id: county.id )
+
+      expect(Trail.find_by_id(trail_2.id)).to eq(trail_2)
+    end
+  end
 end
