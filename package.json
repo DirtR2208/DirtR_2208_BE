@@ -1,0 +1,23 @@
+{
+  "name": "dirtr_2208_be",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DirtR2208/DirtR_2208_BE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DirtR2208/DirtR_2208_BE/issues"
+  },
+  "homepage": "https://github.com/DirtR2208/DirtR_2208_BE#readme"
+}
