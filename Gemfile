@@ -10,6 +10,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'faraday'
 gem 'figaro'
 gem 'jsonapi-serializer'
+gem 'rack-cors'
 
 group :development, :test do
   gem 'faker'
