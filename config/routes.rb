@@ -10,6 +10,7 @@ Rails.application.routes.draw do
       post "/user-trails", to: "user_trails#create"
       get "/trail", to: "trails#show"
       get '/trails', to: "trails#index"
+      delete "/user-trails", to: "user_trails#destroy"
     end
   end
 end
