@@ -89,4 +89,12 @@ RSpec.describe 'POST /user-trails' do
       expect(parsed[:error]).to eq("No User Found")
     end
   end
+
+  describe 'when the trail already exists in that users trails' do
+
+  end
+
+  describe 'when the trail id is not valid' do
+    
+  end
 end

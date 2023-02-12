@@ -7,7 +7,8 @@ class Api::V1::UsersController < ApplicationController
   def show
     id = params[:id]
     if id.present?
-      user = User.find_by_user_id(id)
+      # user = User.find_by_user_id(id)
+      user = User.find_by(id: id)
       if user.nil?
         render json: { error: "No User Found" }, status: 404
       else
