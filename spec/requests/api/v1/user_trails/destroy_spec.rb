@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe 'DELETE api/v1/trail' do
+RSpec.describe 'DELETE api/v1/user-trails' do
   describe "Happy path delete" do
     it 'it deletes a trail from user' do
       shawn = User.create!(
@@ -32,11 +32,15 @@ RSpec.describe 'DELETE api/v1/trail' do
         "user_id": 3,
         "trail_id": 163
       } )
+
       expect(shawn.trails.count).to eq(0)
+
       post '/api/v1/user-trails', headers: headers, params: JSON.generate(body)
+
       expect(response).to be_successful
       expect(response.status).to eq(200)
       expect(shawn.trails.count).to eq(1)
+
       delete "/api/v1/user-trails"
       parsed = JSON.parse(response.body, symbolize_names: true)
 
@@ -79,15 +83,22 @@ RSpec.describe 'DELETE api/v1/trail' do
         "user_id": 3,
         "trail_id": 163
       } )
+
       expect(shawn.trails.count).to eq(0)
+
       post '/api/v1/user-trails', headers: headers, params: JSON.generate(body)
+
       expect(response).to be_successful
       expect(response.status).to eq(200)
       expect(shawn.trails.count).to eq(1)
+
       delete "/api/v1/user-trails"
+
       expect(shawn.trails.count).to eq(0)
+
       delete "/api/v1/user-trails"
       parsed = JSON.parse(response.body, symbolize_names: true)
+
       expect(parsed).to be_a(Hash)
       expect(parsed).to have_key(:error)
       expect(parsed[:error]).to eq("Trail not found")
