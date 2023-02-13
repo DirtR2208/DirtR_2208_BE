@@ -138,7 +138,7 @@ RSpec.describe 'POST /user-trails' do
       expect(parsed).to be_a(Hash)
       expect(parsed).to have_key(:error)
       expect(parsed[:error]).to eq("Trail Not Saved")
-# require 'pry'; binding.pry
+
       expect(shawn.trails.count).to eq(1)
     end
   end
