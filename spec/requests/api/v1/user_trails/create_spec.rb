@@ -86,7 +86,7 @@ RSpec.describe 'POST /user-trails' do
       
       expect(parsed).to be_a(Hash)
       expect(parsed).to have_key(:error)
-      expect(parsed[:error]).to eq("No User Found")
+      expect(parsed[:error]).to eq("Trail Not Saved")
     end
   end
 
@@ -137,8 +137,8 @@ RSpec.describe 'POST /user-trails' do
               
       expect(parsed).to be_a(Hash)
       expect(parsed).to have_key(:error)
-      expect(parsed[:error]).to eq("Trail Already Added")
-
+      expect(parsed[:error]).to eq("Trail Not Saved")
+# require 'pry'; binding.pry
       expect(shawn.trails.count).to eq(1)
     end
   end
@@ -165,7 +165,7 @@ RSpec.describe 'POST /user-trails' do
         
       expect(parsed).to be_a(Hash)
       expect(parsed).to have_key(:error)
-      expect(parsed[:error]).to eq("No Trail Found")
+      expect(parsed[:error]).to eq("Trail Not Saved")
     end
   end
 end
