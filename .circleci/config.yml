@@ -58,12 +58,13 @@ workflows:
             - build-and-test
           post-steps:
             - run:
-            name: login
-            command: heroku login
-
-            - run:
                 name: migrate
-                command: heroku run -a murmuring-cliffs-65490 rails db:migrate
+                command: heroku run -a $HEROKU_APP_NAME rails db:migrate
+          pre-steps:
+            - run:
+                name: login
+                command:
+
           filters:
             branches:
               only:
