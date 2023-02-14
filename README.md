@@ -26,6 +26,150 @@ DirtR is an application where you can find all off roading trails in Colorado
 ## APIs
 
 <details close>
+<summary> Get Users </summary>
+<br>
+
+Request: <br>
+```
+GET /api/v1/user?id=3
+```
+
+JSON Response Example:
+```json
+
+```
+</details>
+
+<details close>
+<summary> Post User Trails </summary>
+<br>
+
+Request: <br>
+```
+POST /api/v1/user-trails
+```
+
+JSON Response Example:
+```json
+
+```
+</details>
+
+<details close>
+<summary> Get All Trails </summary>
+<br>
+
+Request: <br>
+```
+GET /api/v1/trails
+```
+
+JSON Response Example:
+```json
+{
+    "data": [
+        {
+            "id": "1",
+            "type": "trails",
+            "attributes": {
+                "id": 1,
+                "name": "Cowboy Lake",
+                "latitude": "38.22771",
+                "longitude": "-107.54796",
+                "difficulty": "green",
+                "distance": "1.5",
+                "description": "Cowboy Lake is a 1 mile less popular green doubletrack trail located near Ridgway Colorado. This atv/orv/ohv primary trail can be used both directions.",
+                "created_at": "2023-02-02T16:34:05.000Z",
+                "updated_at": "2023-02-02T16:34:05.000Z",
+                "start_elevation": "9,184 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/421000/421278_0_500x200.png",
+                "thumbnail_image": "https://4.bp.blogspot.com/-Duyiyyb7WWU/U_JKdTEN5yI/AAAAAAAAZ64/dipM0wxc3L8/s1600/Cowboy%2BLake%2B132.JPG",
+                "county_id": 1
+            }
+        },
+        {
+            "id": "2",
+            "type": "trails",
+            "attributes": {
+                "id": 2,
+                "name": "Lou Creek",
+                "latitude": "38.22771",
+                "longitude": "-107.54796",
+                "difficulty": "blue",
+                "distance": "2.7",
+                "description": "Lou Creek is a 3 mile less popular blue doubletrack trail located near Ridgway Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 57 minutes to complete this trail.",
+                "created_at": "2023-02-02T16:35:14.000Z",
+                "updated_at": "2023-02-02T16:35:14.000Z",
+                "start_elevation": "9,214 ft",
+                "avg_duration": "0:57:30",
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/421000/421237_0_500x200.png",
+                "thumbnail_image": "https://1.bp.blogspot.com/-20tDnLc9Fwg/U_N2uPV9w6I/AAAAAAAAZ9s/nW4wVtOB_Tc/s1600/West%2BFork%2B004.JPG",
+                "county_id": 1
+            }
+        },
+        {
+            "id": "3",
+            "type": "trails",
+            "attributes": {
+                "id": 3,
+                "name": "Stealey Mountain North",
+                "latitude": "38.14721",
+                "longitude": "-107.59245",
+                "difficulty": "blue",
+                "distance": "3.6",
+                "description": "Stealey Mountain North is a 2 mile less popular blue singletrack trail located near Ridgway Colorado. This hike primary trail can be used both directions",
+                "created_at": "2023-02-02T16:36:23.000Z",
+                "updated_at": "2023-02-02T16:36:23.000Z",
+                "start_elevation": "9,742 ft",
+                "avg_duration": null,
+                "map_image": "https://ep1.pinkbike.org/trailstaticmap/421000/421103_0_500x200.png",
+                "thumbnail_image": "https://i.ytimg.com/vi/IgvX5v4YzpE/maxresdefault.jpg",
+                "county_id": 1
+            }
+        }
+    ]
+}
+```
+</details>
+
+<details close>
+<summary> Get Trail </summary>
+<br>
+
+Request: <br>
+```
+GET /api/v1/trail?id=2
+```
+
+JSON Response Example:
+```json
+{
+    "data": {
+        "id": "2",
+        "type": "trail",
+        "attributes": {
+            "id": 2,
+            "name": "Lou Creek",
+            "latitude": "38.22771",
+            "longitude": "-107.54796",
+            "difficulty": "blue",
+            "distance": "2.7",
+            "description": "Lou Creek is a 3 mile less popular blue doubletrack trail located near Ridgway Colorado. This atv/orv/ohv primary trail can be used both directions. On average it takes 57 minutes to complete this trail.",
+            "created_at": "2023-02-02T16:35:14.000Z",
+            "updated_at": "2023-02-02T16:35:14.000Z",
+            "start_elevation": "9,214 ft",
+            "avg_duration": "0:57:30",
+            "map_image": "https://ep1.pinkbike.org/trailstaticmap/421000/421237_0_500x200.png",
+            "thumbnail_image": "https://1.bp.blogspot.com/-20tDnLc9Fwg/U_N2uPV9w6I/AAAAAAAAZ9s/nW4wVtOB_Tc/s1600/West%2BFork%2B004.JPG",
+            "county_id": 1
+        }
+    }
+}
+```
+</details>
+
+<details close>
 <summary> Get All Counties </summary>
 <br>
 
@@ -37,34 +181,29 @@ GET /api/v1/counties
 JSON Response Example:
 ```json
 {
-    "data":
-  [{"id":"1", "type":"counties", "attributes":{"name":"Ouray County"}},
-   {"id":"2", "type":"counties", "attributes":{"name":"Chaffee County"}},
-   {"id":"3", "type":"counties", "attributes":{"name":"Teller County"}},
-   {"id":"4", "type":"counties", "attributes":{"name":"Fremont County"}},
-   {"id":"5", "type":"counties", "attributes":{"name":"Saguache County"}},
-   {"id":"6", "type":"counties", "attributes":{"name":"Gunnison County"}},
-   {"id":"7", "type":"counties", "attributes":{"name":"La Plata County"}},
-   {"id":"8", "type":"counties", "attributes":{"name":"Montrose County"}},
-   {"id":"9", "type":"counties", "attributes":{"name":"Gunnison County"}},
-   {"id":"10", "type":"counties", "attributes":{"name":"Alamosa County"}},
-   {"id":"11", "type":"counties", "attributes":{"name":"Dolores County"}},
-   {"id":"12", "type":"counties", "attributes":{"name":"Montezuma County"}},
-   {"id":"13", "type":"counties", "attributes":{"name":"Lake County"}},
-   {"id":"14", "type":"counties", "attributes":{"name":"Delta County"}},
-   {"id":"15", "type":"counties", "attributes":{"name":"Mesa County"}},
-   {"id":"16", "type":"counties", "attributes":{"name":"San Migiuel County"}},
-   {"id":"17", "type":"counties", "attributes":{"name":"San Juan County"}},
-   {"id":"18", "type":"counties", "attributes":{"name":"Archuleta County"}},
-   {"id":"19", "type":"counties", "attributes":{"name":"Rio Blanco County"}},
-   {"id":"20", "type":"counties", "attributes":{"name":"Garfield County"}},
-   {"id":"21", "type":"counties", "attributes":{"name":"Eagle County"}},
-   {"id":"22", "type":"counties", "attributes":{"name":"Grand County"}},
-   {"id":"23", "type":"counties", "attributes":{"name":"Summit County"}},
-   {"id":"24", "type":"counties", "attributes":{"name":"Routt County"}},
-   {"id":"25", "type":"counties", "attributes":{"name":"Clear Creek County"}},
-   {"id":"26", "type":"counties", "attributes":{"name":"Larimer County"}},
-   {"id":"27", "type":"counties", "attributes":{"name":"Boulder County"}}]
+    "data": [
+        {
+            "id": "1",
+            "type": "counties",
+            "attributes": {
+                "name": "Ouray County"
+            }
+        },
+        {
+            "id": "2",
+            "type": "counties",
+            "attributes": {
+                "name": "Chaffee County"
+            }
+        },
+        {
+            "id": "3",
+            "type": "counties",
+            "attributes": {
+                "name": "Teller County"
+            }
+        }
+    ]
 }
 ```
 </details>
@@ -81,41 +220,47 @@ GET /api/v1/county?name="#{county}"
 JSON Response Example:
 ```json
 {
-"data":
-  {"id":"27",
-   "type":"county",
-   "attributes":
-    {"name":"Boulder County",
-     "trails":
-      [{"id":163,
-        "name":"Jenny Creek Trail ",
-        "latitude":"39.929561",
-        "longitude":"-105.624647",
-        "difficulty":"black",
-        "distance":"2.2",
-        "description":"Jenny Creek Trail is a lesser-used trail that goes from Yankee Doodle Lake Eldora Ski area. In it motorized 2 tra
-ck and in summer is an out-and-back from Rollins pass road or Jenny Creek Road with no summer access through Eldora.",
-        "created_at":"2023-02-02T194023.000Z",
-        "updated_at":"2023-02-02T194023.000Z",
-        "start_elevation":"10,732 ft",
-        "avg_duration":"02511",
-        "map_image":"https//ep1.pinkbike.org/trailstaticmap/563000/563447_3_500x200.png",
-        "thumbnail_image":"https//adventr.co/wp-content/uploads/2015/01/DSC03243.jpg",
-        "county_id":27},
-       {"id":164,
-        "name":"Jenny Creek Road ",
-        "latitude":"39.928003",
-        "longitude":"-105.592149",
-        "difficulty":"black",
-        "distance":"2.6",
-        "description":"Motorized road connecting Eldora to Moffat Road.",
-        "created_at":"2023-02-02T19:41:32.000Z",
-        "updated_at":"2023-02-02T19:41:32.000Z",
-        "start_elevation":"9,353 ft",
-        "avg_duration":"0:18:13",
-        "map_image":"https://ep1.pinkbike.org/trailstaticmap/563000/563444_2_500x200.png",
-        "thumbnail_image":"https://adventr.co/wp-content/uploads/2015/01/DSC03243.jpg",
-        "county_id":27}]}}
+    "data": {
+        "id": "27",
+        "type": "county",
+        "attributes": {
+            "name": "Boulder County",
+            "trails": [
+                {
+                    "id": 163,
+                    "name": "Jenny Creek Trail ",
+                    "latitude": "39.929561",
+                    "longitude": "-105.624647",
+                    "difficulty": "black",
+                    "distance": "2.2",
+                    "description": "Jenny Creek Trail is a lesser-used trail that goes from Yankee Doodle Lake Eldora Ski area. In it motorized 2 track and in summer is an out-and-back from Rollins pass road or Jenny Creek Road with no summer access through Eldora.",
+                    "created_at": "2023-02-02T19:40:23.000Z",
+                    "updated_at": "2023-02-02T19:40:23.000Z",
+                    "start_elevation": "10,732 ft",
+                    "avg_duration": "0:25:11",
+                    "map_image": "https://ep1.pinkbike.org/trailstaticmap/563000/563447_3_500x200.png",
+                    "thumbnail_image": "https://adventr.co/wp-content/uploads/2015/01/DSC03243.jpg",
+                    "county_id": 27
+                },
+                {
+                    "id": 164,
+                    "name": "Jenny Creek Road ",
+                    "latitude": "39.928003",
+                    "longitude": "-105.592149",
+                    "difficulty": "black",
+                    "distance": "2.6",
+                    "description": "Motorized road connecting Eldora to Moffat Road.",
+                    "created_at": "2023-02-02T19:41:32.000Z",
+                    "updated_at": "2023-02-02T19:41:32.000Z",
+                    "start_elevation": "9,353 ft",
+                    "avg_duration": "0:18:13",
+                    "map_image": "https://ep1.pinkbike.org/trailstaticmap/563000/563444_2_500x200.png",
+                    "thumbnail_image": "https://adventr.co/wp-content/uploads/2015/01/DSC03243.jpg",
+                    "county_id": 27
+                }
+            ]
         }
+    }
+}
 ```
 </details>
