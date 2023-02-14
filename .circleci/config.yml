@@ -54,12 +54,13 @@ workflows:
     jobs:
       - build-and-test
       - heroku/deploy-via-git: # Use the pre-configured job, deploy-via-git
-        - run:
-            name: login
-            command: heroku login
           requires:
             - build-and-test
           post-steps:
+            - run:
+            name: login
+            command: heroku login
+
             - run:
                 name: migrate
                 command: heroku run -a murmuring-cliffs-65490 rails db:migrate
