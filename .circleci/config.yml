@@ -52,10 +52,10 @@ jobs: # a collection of steps
 workflows:
   build-test-deploy:
     jobs:
-      - build-and-test
       - run:
           name: heroku-login
           command: heroku login -i
+      - build-and-test
       - heroku/deploy-via-git: # Use the pre-configured job, deploy-via-git
           requires:
             - build-and-test
