@@ -59,7 +59,7 @@ workflows:
           post-steps:
             - run:
                 name: migrate
-                command: heroku run -a dirtr2208be rails db:migrate
+                command: heroku run -a murmuring-cliffs-65490 rails db:migrate
           filters:
             branches:
               only:
