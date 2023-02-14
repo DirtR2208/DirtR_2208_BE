@@ -60,10 +60,6 @@ workflows:
             - run:
                 name: migrate
                 command: heroku run -a $HEROKU_APP_NAME rails db:migrate
-          pre-steps:
-            - run:
-                name: login
-                command:
 
           filters:
             branches:
