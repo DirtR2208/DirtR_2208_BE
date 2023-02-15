@@ -41,7 +41,16 @@ GET /api/v1/user?id=3
 
 JSON Response Example:
 ```json
-
+{
+    "data": {
+        "id": "3",
+        "type": "user",
+        "attributes": {
+            "name": "Shawn Lee",
+            "trails": []
+        }
+    }
+}
 ```
 </details>
 
@@ -54,9 +63,59 @@ Request: <br>
 POST /api/v1/user-trails
 ```
 
+JSON Payload Example:
+```json
+{
+    "trail_id": 4,
+    "user_id": 3,
+    "name": "Tomichi Pass",
+    "latitude": "38.61367",
+    "longitude": "-106.39009",
+    "difficulty": "blue",
+    "distance": "2",
+    "description": "Tomichi Pass is a 2 mile less popular blue doubletrack trail located near Buena Vista Colorado. This atv/orv/ohv primary trail can be used both directions and has a hard overall physical rating with a 838 ft blue climb. On average it takes 51 minutes to complete this trail.",
+    "created_at": "2023-02-02T16:37:32.000Z",
+    "updated_at": "2023-02-02T16:37:32.000Z",
+    "start_elevation": "11,128 ft",
+    "avg_duration": "0:51:12",
+    "map_image": "https://ep1.pinkbike.org/trailstaticmap/249000/249749_0_500x200.png",
+    "thumbnail_image": "https://www.4x4explore.com/rds/t_rds/tomichi_ps_c.jpg",
+    "county_id": 2
+}
+```
 JSON Response Example:
 ```json
+{
+    "success": "Trail Added Successfully"
+}
 
+{
+    "data": {
+        "id": "3",
+        "type": "user",
+        "attributes": {
+            "name": "Shawn Lee",
+            "trails": [
+                {
+                    "id": 4,
+                    "name": "Tomichi Pass",
+                    "latitude": "38.61367",
+                    "longitude": "-106.39009",
+                    "difficulty": "blue",
+                    "distance": "2",
+                    "description": "Tomichi Pass is a 2 mile less popular blue doubletrack trail located near Buena Vista Colorado. This atv/orv/ohv primary trail can be used both directions and has a hard overall physical rating with a 838 ft blue climb. On average it takes 51 minutes to complete this trail.",
+                    "created_at": "2023-02-02T16:37:32.000Z",
+                    "updated_at": "2023-02-02T16:37:32.000Z",
+                    "start_elevation": "11,128 ft",
+                    "avg_duration": "0:51:12",
+                    "map_image": "https://ep1.pinkbike.org/trailstaticmap/249000/249749_0_500x200.png",
+                    "thumbnail_image": "https://www.4x4explore.com/rds/t_rds/tomichi_ps_c.jpg",
+                    "county_id": 2
+                }
+            ]
+        }
+    }
+}
 ```
 </details>
 
@@ -266,6 +325,31 @@ JSON Response Example:
             ]
         }
     }
+}
+```
+</details>
+
+<details close>
+<summary> Delete User Trail </summary>
+<br>
+
+Request: <br>
+```
+DELETE /api/v1/user-trails
+```
+
+JSON Payload Example:
+```json
+{
+    "user_id": 3,
+    "trail_id": 4
+}
+```
+
+JSON Response Example:
+```json
+{
+    "success": "Trail Removed From Favorites"
 }
 ```
 </details>
