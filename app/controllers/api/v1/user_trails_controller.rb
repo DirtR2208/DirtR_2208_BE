@@ -10,15 +10,15 @@ class Api::V1::UserTrailsController < ApplicationController
   end
 
   def destroy
-    if user_trail.present?
-      user_trail.delete
-      render json: { 'success': 'Trail Remove from favorites' }, status: 200
+    if u_trail.present?
+      u_trail.delete
+      render json: { 'success': 'Trail Removed From Favorites' }, status: 200
     else
-      render json:{ 'error': 'Trail not found'}, status: 404
+      render json: { 'error': 'Trail Not Found' }, status: 404
     end
   end
 
-  def user_trail
+  def u_trail
     UserTrail.find_by(params[:id])
   end
 end
