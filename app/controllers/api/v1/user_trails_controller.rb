@@ -21,6 +21,6 @@ class Api::V1::UserTrailsController < ApplicationController
   private
 
   def user_trail
-    UserTrail.find_by(params[:id])
+    UserTrail.find_by(user_id: params[:user_id], trail_id: params[:trail_id])
   end
 end
