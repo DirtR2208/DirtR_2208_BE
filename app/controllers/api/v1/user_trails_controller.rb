@@ -10,7 +10,7 @@ class Api::V1::UserTrailsController < ApplicationController
   end
 
   def destroy
-    if !u_trail.nil?
+    if u_trail.present?
       u_trail.delete
       render json: { 'success': 'Trail Removed From Favorites' }, status: 200
     else

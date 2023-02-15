@@ -41,7 +41,7 @@ RSpec.describe 'DELETE api/v1/user-trails' do
       expect(response.status).to eq(200)
       expect(shawn.trails.count).to eq(1)
 
-      delete "/api/v1/user-trails", headers: headers, params: JSON.generate(body)
+      delete "/api/v1/user-trails"
       parsed = JSON.parse(response.body, symbolize_names: true)
 
       expect(parsed).to be_a(Hash)
@@ -63,7 +63,7 @@ RSpec.describe 'DELETE api/v1/user-trails' do
       expect(shawn.trails.count).to eq(0)
 
       delete "/api/v1/user-trails"
-      
+
       expect(shawn.trails.count).to eq(0)
 
       parsed = JSON.parse(response.body, symbolize_names: true)
