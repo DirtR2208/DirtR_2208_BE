@@ -14,6 +14,9 @@ DirtR is an application where you can find all off roading trails in Colorado
 ## Built With
 - Rails 5.2.8
 - Ruby 2.7.4
+- Docker 20.10.22
+- CircleCI 2.1
+- Heroku 7.68.0
 
 
 ## Setup
@@ -22,8 +25,10 @@ DirtR is an application where you can find all off roading trails in Colorado
 2. cd into the root directory
 3. Install gem packages: `bundle install`
 4. Setup the database: `rails db:{drop,create,migrate,seed}`
+5. Perform rake task to seed data: `rails csv_load:all`
+6. Launch server: `rails s` or `docker-compose up --build`
 
-## APIs
+## API Endpoints
 
 <details close>
 <summary> Get Users </summary>
@@ -264,3 +269,49 @@ JSON Response Example:
 }
 ```
 </details>
+
+## Contact
+
+<table>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/89422302?v=4" width='150'></td>
+    <td><img src="https://avatars.githubusercontent.com/u/104859844?s=150&v=4"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/108506841?s=150&v=4"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/106944291?s=150&v=4"></td>
+  </tr>
+  <tr>
+    <td>Alex Mora</td>
+    <td>Eli Fuchsman</td>
+    <td>Kenz Leng</td>
+    <td>Shawn Lee</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AlexMR-93">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/alex-m-b25902240/">LinkedIn</a>
+    </td>
+    <td>
+       <a href="https://github.com/efuchsman">GitHub</a><br>
+       <a href="https://www.linkedin.com/in/elifuchsman/">LinkedIn</a>
+    </td>
+    <td>
+      <a href="https://github.com/kenzjoy">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/kenzjoydev/">LinkedIn</a>
+    </td>
+    <td>
+      <a href="https://github.com/Shawnl93">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/shawn-lee-3382aa8b/">LinkedIn</a>
+    </td>
+  </tr>
+</table>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+## Acknowledgments
+
+Turing School of Software Design: [https://turing.edu/](https://turing.edu/)
+<br>
+Trailforks: [https://www.trailforks.com/](https://www.trailforks.com/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
