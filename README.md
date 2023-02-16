@@ -10,7 +10,7 @@
 - [Setup](#setup)
 
 ## Project Overview
-DirtR is an application where you can find all off roading trails in Colorado
+Dirtr is an application which simulates users, allows you to take control of a user account, and utilize an app to find/favorite offroading trails in Colorado. 
 
 ## DB Schema
 <img width="450" alt="Screen Shot 2023-02-06 at 11 36 27 AM" src="https://user-images.githubusercontent.com/106944291/219200038-43fdeefb-340d-4a2b-ad1f-3ead851a3352.png">
